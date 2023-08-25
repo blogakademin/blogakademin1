@@ -15,4 +15,12 @@ navbar:
          href: ph.html
        - text: "Biostatistics"
          href: stats.html
+       - text: "Causal inference"
+         href: ci.html
+    - text: "Literature"
+      menu:
+       - text: "Something warm"
+         href: warm.html
+       - text: "Something dark"
+         href: dark.html
 output: distill::distill_article
