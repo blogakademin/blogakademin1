@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-25T23:01:00+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Bertil Gustav",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          blog23\r\n          \r\n          \r\n          Home\r\n          Aging\r\n          \r\n          \r\n          Methodology\r\n           \r\n          ▾\r\n          \r\n          \r\n          Epidemiology\r\n          Biostatistics\r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Bertil Gustav\r\n            \r\n            \r\n              \r\n                \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            About\r\n            This website shares reflections on articles, courses,\r\n            seminars, and conferences in the following fields:\r\n            epidemiology, applied statistics, causal inference,\r\n            real-world evidence, health economics, cardiovascular\r\n            diseases, dementia, gerontology, public health, and others.\r\n            Additionally, this website provides reflections on various\r\n            books and films.\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Bertil Gustav\r\n            \r\n            \r\n              \r\n                \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              About\r\n              This website shares reflections on articles, courses,\r\n              seminars, and conferences in the following fields:\r\n              epidemiology, applied statistics, causal inference,\r\n              real-world evidence, health economics, cardiovascular\r\n              diseases, dementia, gerontology, public health, and\r\n              others. Additionally, this website provides reflections on\r\n              various books and films.\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2023-08-25T23:01:01+02:00"
+    }
+  ],
+  "collections": []
+}
