@@ -1,0 +1,29 @@
+name: "."
+title: "blog23"
+description: |
+  blog23
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Public health"
+      href: ph.html
+    - text: "Aging"
+      href: aging.html
+    - text: "Methodology"
+      menu:
+        - text: "Epidemiology"
+          href: epi.html
+        - text: "Statistics"
+          href: stats.html
+        - text: "Causal inference"
+          href: ci.html
+    - text: "Literature"
+      menu:
+        - text: "Something warm"
+          href: warm.html
+        - text: "Something dark"
+          href: dark.html   
+      
+output: distill::distill_article
