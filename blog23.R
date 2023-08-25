@@ -7,4 +7,4 @@ create_website(dir=".",title = "blog23",gh_pages = T)
 create_article(file="index",template = "trestles",
                package = "postcards")
 
-create_article(file="ph.html")
+
