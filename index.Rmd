@@ -1,15 +1,18 @@
 ---
-title: "Bertil Gustav"
-image: "image.jpg"
-
-output:
-  postcards::solana
-  
+title: "blog23"
+description: |
+  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 ---
- 
-## About this website
 
-  This website posts reflections on articles, courses, seminars, and conferences in the following fields: epidemiology, applied statistics, causal inference, real-world evidence, health economics, cardiovascular diseases, dementia, gerontology, public health, and others.
-  
-  Additionally, this website provides reflections on various books and films.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
