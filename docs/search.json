@@ -6,15 +6,22 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-08-27T12:37:47+02:00"
+      "last_modified": "2023-08-27T19:32:04+02:00"
+    },
+    {
+      "path": "guid1.html",
+      "title": "Notes and reflections on guidelines",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-27T19:32:05+02:00"
     },
     {
       "path": "index.html",
       "title": "Bertil Gustav",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Bertil's thought plant\r\n          \r\n          \r\n          Home\r\n          \r\n          \r\n          Aging\r\n           \r\n          ▾\r\n          \r\n          \r\n          Cognitive aging\r\n          Cardiovascular diseases in againg\r\n          Frailty, multimorbidity, functional decline\r\n          Psychosocial well-being\r\n          Guidelines\r\n          \r\n          \r\n          \r\n          \r\n          Methodology\r\n           \r\n          ▾\r\n          \r\n          \r\n          Epidemiology\r\n          Biostatistics\r\n          Causal inference\r\n          Guidelines\r\n          \r\n          \r\n          \r\n          \r\n          Literature\r\n           \r\n          ▾\r\n          \r\n          \r\n          Something warm\r\n          Something dark\r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Bertil Gustav\r\n            \r\n            \r\n              \r\n                \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            About\r\n            This website shares Bertil’s reflections on articles,\r\n            courses, seminars, and conferences in the following fields:\r\n            epidemiology, applied statistics, causal inference,\r\n            real-world evidence, health economics, cardiovascular\r\n            diseases, dementia, gerontology, public health, and\r\n            others.\r\n            Additionally, this website shares Bertil’s reflections on\r\n            various books and films.\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Bertil Gustav\r\n            \r\n            \r\n              \r\n                \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              About\r\n              This website shares Bertil’s reflections on articles,\r\n              courses, seminars, and conferences in the following\r\n              fields: epidemiology, applied statistics, causal\r\n              inference, real-world evidence, health economics,\r\n              cardiovascular diseases, dementia, gerontology, public\r\n              health, and others.\r\n              Additionally, this website shares Bertil’s reflections\r\n              on various books and films.\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2023-08-27T12:37:47+02:00"
+      "last_modified": "2023-08-27T19:32:06+02:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }

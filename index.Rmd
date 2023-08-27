@@ -1,7 +1,6 @@
 ---
 title: "Bertil Gustav"
 image: "image.jpg"
-
 output:
   postcards::trestles
   
