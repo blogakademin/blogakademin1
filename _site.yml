@@ -38,3 +38,9 @@ navbar:
        - text: "Something dark"
          href: dark.html
 output: distill::distill_article
+
+base_url: https://beta.rstudioconnect.com/content/11424/
+collections:
+  posts:
+    disqus: Bertil-thought-plant
+    share: [twitter, linkedin]
