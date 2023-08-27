@@ -10,5 +10,6 @@ site: distill::distill_website
  
 ## About
 
-This website shares reflections on articles, courses, seminars, and conferences in the following fields: epidemiology, applied statistics, causal inference, real-world evidence, health economics, cardiovascular diseases, dementia, gerontology, public health, and others. 
-Additionally, this website provides reflections on various books and films.
+This website shares Bertil's reflections on articles, courses, seminars, and conferences in the following fields: epidemiology, applied statistics, causal inference, real-world evidence, health economics, cardiovascular diseases, dementia, gerontology, public health, and others. 
+
+Additionally, this website shares Bertil's reflections on various books and films.
