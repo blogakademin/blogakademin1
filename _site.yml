@@ -1,5 +1,5 @@
 name: "."
-title: "blog23"
+title: "Bertil's thought plant"
 description: |
   blog23
 output_dir: "docs"
@@ -8,6 +8,17 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Aging"
+      menu:
+      - text: "Cognitive aging"
+        href: cog_age.html
+      - text: "Cardiovascular diseases in againg"
+        href: cvd.html
+      - text: "Frailty, multimorbidity, functional decline"
+        href: frail.html
+      - text: "Psychosocial well-being"
+        href: psyso.html
+      - text: "Guidelines"
+        href: guid1.html
       href: aging.html
     - text: "Methodology"
       menu:
@@ -17,6 +28,8 @@ navbar:
          href: stats.html
        - text: "Causal inference"
          href: ci.html
+       - text: "Guidelines"
+         href: guid2.html
     - text: "Literature"
       menu:
        - text: "Something warm"
