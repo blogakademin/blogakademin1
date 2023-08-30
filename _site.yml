@@ -3,6 +3,7 @@ title: "Bertil's thought plant"
 description: |
   blog23
 output_dir: "docs"
+theme: blog23-theme.css
 navbar:
   search: true
   right:

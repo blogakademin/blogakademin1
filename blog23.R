@@ -13,3 +13,5 @@ create_article(file="guid1")
 create_post("Diabetes guidelines for older adults")
 
 create_post("Cardiovascular disease prevention guidelines for older adults")
+
+create_theme("blog23-theme")
