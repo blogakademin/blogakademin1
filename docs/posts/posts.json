@@ -1,5 +1,107 @@
 [
   {
+    "path": "posts/2023-09-09-burdens-of-caregivers/",
+    "title": "Burdens of caregivers",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nImportant terms\r\nReference:\r\n1. Pinquart M, Sörensen S. Correlates of physical health of informal caregivers: a meta-analysis. J Gerontol B Psychol Sci Soc Sci. 2007 Mar;62(2):P126-37.\r\n2. Lindt N, van Berkel J, Mulder BC. Determinants of overburdening among informal carers: a systematic review. BMC Geriatr. 2020 Aug 26;20(1):304.\r\n3. Cahill S, Bielsten T, Zarit SH. Developing a Framework for the Support of Informal Caregivers: Experiences from Sweden, Ireland, and the United States. Res Aging. 2023 Mar;45(3-4):385-395.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-09T23:54:54+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-09-09-cost-effectiveness-of-treatments-for-alzheimers-disease/",
+    "title": "Cost-effectiveness of treatments for Alzheimer's disease",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nImportant terms\r\nAducanumab:\r\nLecanemab:\r\nDenanemab:\r\nReference:\r\n1. Jönsson L, Wimo A. Viewpoint: Amyloid-targeting New Therapies for Alzheimer’s Disease: A Health Economics Perspective. J Prev Alzheimers Dis. 2023;10(2):349-352.\r\nTahami Monfared AA, Ye W, Sardesai A, Folse H, Chavan A, Kang K, Zhang Q. Estimated Societal Value of Lecanemab in Patients with Early Alzheimer’s Disease Using Simulation Modeling. Neurol Ther. 2023 Jun;12(3):795-814.\r\nTahami Monfared AA, Tafazzoli A, Ye W, Chavan A, Zhang Q. Long-Term Health Outcomes of Lecanemab in Patients with Early Alzheimer’s Disease Using Simulation Modeling. Neurol Ther. 2022 Jun;11(2):863-880.\r\nRosenthal MB. Novel Alzheimer Disease Treatments and Reconsideration of US Pharmaceutical Reimbursement Policy. JAMA. 2023 Aug 8;330(6):505-506.\r\nTahami Monfared AA, Tafazzoli A, Chavan A, Ye W, Zhang Q. The Potential Economic Value of Lecanemab in Patients with Early Alzheimer’s Disease Using Simulation Modeling. Neurol Ther. 2022 Sep;11(3):1285-1307.\r\nTahami Monfared AA, Ye W, Sardesai A, Folse H, Chavan A, Aruffo E, Zhang Q. A Path to Improved Alzheimer’s Care: Simulating Long-Term Health Outcomes of Lecanemab in Early Alzheimer’s Disease from the CLARITY AD Trial. Neurol Ther. 2023 Jun;12(3):863-881.\r\nIgarashi A, Azuma MK, Zhang Q, Ye W, Sardesai A, Folse H, Chavan A, Tomita K, Tahami Monfared AA. Predicting the Societal Value of Lecanemab in Early Alzheimer’s Disease in Japan: A Patient-Level Simulation. Neurol Ther. 2023 Aug;12(4):1133-1157.\r\nMattke S, Loh WK, Yuen KH, Yoong J. Preparedness of China’s health care system to provide access to a disease-modifying Alzheimer’s treatment. Alzheimers Dement. 2023 Jun 6.\r\nBelder CRS, Schott JM, Fox NC. Preparing for disease-modifying therapies in Alzheimer’s disease. Lancet Neurol. 2023 Sep;22(9):782-783.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-09T23:55:35+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-09-09-health-economics-introduction/",
+    "title": "Health economics-introduction",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nImportant terms\r\nReference:\r\n1. Drummond, M. F., Sculpher, M. J., Claxton, K., Stoddart, G. L., & Torrance, G. W. (2015). Methods for the Economic Evaluation of Health Care Programmes. (4th ed.) Oxford University Press.\r\n2. Ross EL, Weinberg MS, Arnold SE. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease in the US. JAMA Neurol. 2022 May 1;79(5):478-487.\r\n3. Cliff ERS, Kelkar AH. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease-Estimating the True Value. JAMA Neurol. 2022 Oct 3.\r\n4. Mattke S. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease-Estimating the True Value. JAMA Neurol. 2022 Oct 3.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-09T23:55:13+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-09-09-the-swedish-health-care-system/",
+    "title": "The Swedish health care system",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nImportant terms\r\nReference:\r\n1. Den nordiska äldreomsorgen-En jämförande kartläggning av struktur, organisation och innehåll\r\n2. Kvalitet i äldreomsorg ur ett anhörigperspektiv\r\n3. Nära vård i sikte? Utvärdering av omställningen till en god och nära vård: delrapport\r\n4. Stöd till anhöriga-erfarenheter från åtta kommuner 2010-2012\r\n5. Sweden: health system review 2012\r\n6. Vården ur befolkningens perspektiv, 65 år och äldre\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-09T23:55:02+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-09-09-treatments-for-alzheimers-disease/",
+    "title": "Treatments for Alzheimer's disease",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nImportant terms\r\nAducanumab:\r\nLecanemab:\r\nDenanemab:\r\nReference:\r\nWidera EW, Brangman SA, Chin NA. Ushering in a New Era of Alzheimer Disease Therapy. JAMA. 2023 Aug 8;330(6):503-504.\r\nSchneider LS. Viewpoint: When It Comes to Lecanemab (and Donanemab), How Might We Think about ‘Reasonable and Necessary’? J Prev Alzheimers Dis. 2023;10(3):342-343.\r\nvan Dyck CH, Swanson CJ, Aisen P, Bateman RJ, Chen C, Gee M, Kanekiyo M, Li D, Reyderman L, Cohen S, Froelich L, Katayama S, Sabbagh M, Vellas B, Watson D, Dhadda S, Irizarry M, Kramer LD, Iwatsubo T. Lecanemab in Early Alzheimer’s Disease. N Engl J Med. 2023 Jan 5;388(1):9-21.\r\nSims JR, Zimmer JA, Evans CD, Lu M, Ardayfio P, Sparks J, Wessels AM, Shcherbinin S, Wang H, Monkul Nery ES, Collins EC, Solomon P, Salloway S, Apostolova LG, Hansson O, Ritchie C, Brooks DA, Mintun M, Skovronsky DM; TRAILBLAZER-ALZ 2 Investigators. Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial. JAMA. 2023 Aug 8;330(6):512-527.\r\nCummings J, Apostolova L, Rabinovici GD, Atri A, Aisen P, Greenberg S, Hendrix S, Selkoe D, Weiner M, Petersen RC, Salloway S. Lecanemab: Appropriate Use Recommendations. J Prev Alzheimers Dis. 2023;10(3):362-377.\r\nManly JJ, Deters KD. Donanemab for Alzheimer Disease-Who Benefits and Who Is Harmed? JAMA. 2023 Aug 8;330(6):510-511.\r\nAtwood CS, Perry G. Playing Russian Roulette with Alzheimer’s Disease Patients: Do the Cognitive Benefits of Lecanemab Outweigh the Risk of Edema, Stroke and Encephalitis? J Alzheimers Dis. 2023;92(3):799-801.\r\nThambisetty M, Howard R. Lecanemab and APOE Genotyping in Clinical Practice-Navigating Uncharted Terrain. JAMA Neurol. 2023 May 1;80(5):431-432.\r\nRashad A, Rasool A, Shaheryar M, Sarfraz A, Sarfraz Z, Robles-Velasco K, Cherrez-Ojeda I. Donanemab for Alzheimer’s Disease: A Systematic Review of Clinical Trials. Healthcare (Basel). 2022 Dec 22;11(1):32.\r\nBurke JF, Kerber KA, Langa KM, Albin RL, Kotagal V. Lecanemab: Looking Before We Leap. Neurology. 2023 Jul 21:10.1212/WNL.0000000000207505.\r\nMcDade E, Cummings JL, Dhadda S, Swanson CJ, Reyderman L, Kanekiyo M, Koyama A, Irizarry M, Kramer LD, Bateman RJ. Lecanemab in patients with early Alzheimer’s disease: detailed results on biomarker, cognitive, and clinical effects from the randomized and open-label extension of the phase 2 proof-of-concept study. Alzheimers Res Ther. 2022 Dec 21;14(1):191.\r\nGueorguieva I, Willis BA, Chua L, Chow K, Ernest CS, Shcherbinin S, Ardayfio P, Mullins GR, Sims JR. Donanemab Population Pharmacokinetics, Amyloid Plaque Reduction, and Safety in Participants with Alzheimer’s Disease. Clin Pharmacol Ther. 2023 Jun;113(6):1258-1267.\r\nGueorguieva I, Willis BA, Chua L, Chow K, Ernest CS 2nd, Wang J, Shcherbinin S, Sims JR, Chigutsa E. Donanemab exposure and efficacy relationship using modeling in Alzheimer’s disease. Alzheimers Dement (N Y). 2023 Jun 28;9(2):e12404.\r\nWessels AM, Dennehy EB, Dowsett SA, Dickson SP, Hendrix SB. Meaningful Clinical Changes in Alzheimer Disease Measured With the iADRS and Illustrated Using the Donanemab TRAILBLAZER-ALZ Study Findings. Neurol Clin Pract. 2023 Apr;13(2):e200127.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-09T23:55:24+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-09-09-vascular-aging/",
+    "title": "Vascular aging",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nImportant terms\r\nReference:\r\nNilsson PM, Boutouyrie P, Laurent S. Vascular aging: A tale of EVA and ADAM in cardiovascular risk assessment and prevention. Hypertension. 2009 Jul;54(1):3-10.\r\nNilsson PM. Hemodynamic Aging as the Consequence of Structural Changes Associated with Early Vascular Aging (EVA). Aging Dis. 2014 Apr 1;5(2):109-13.\r\nNilsson PM. Early Vascular Aging in Hypertension. Front Cardiovasc Med. 2020 Feb 4;7:6.\r\nNilsson PM. Early vascular aging (EVA): consequences and prevention. Vasc Health Risk Manag. 2008;4(3):547-52.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-09T23:54:46+02:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2023-08-27-cardiovascular-disease-prevention-guidelines-for-older-adults/",
     "title": "Cardiovascular disease prevention guidelines for older adults",
     "description": {},
@@ -11,9 +113,9 @@
     ],
     "date": "2023-08-27",
     "categories": [],
-    "contents": "\r\nReference:\r\nObrová J, Jadrníčková P, Václavík J. Whats new in 2021 ESC Guidelines on cardiovascular disease prevention in clinical practice? 2022;68(5):295-302. doi: 10.36290/vnl.2022.063.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nReference:\r\nObrová J, Jadrníčková P, Václavík J. Whats new in 2021 ESC Guidelines on cardiovascular disease prevention in clinical practice? 2022;68(5):295-302.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-08-27T19:31:42+02:00",
+    "last_modified": "2023-09-09T23:54:39+02:00",
     "input_file": {}
   },
   {

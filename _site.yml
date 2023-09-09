@@ -13,12 +13,14 @@ navbar:
       menu:
       - text: "Cognitive aging"
         href: cog_age.html
-      - text: "Cardiovascular diseases in againg"
+      - text: "Cardiovascular health in againg"
         href: cvd.html
       - text: "Frailty, multimorbidity, functional decline"
         href: frail.html
       - text: "Psychosocial well-being"
         href: psyso.html
+      - text: "Health care system"
+        href: hcs.html
       - text: "Guidelines"
         href: guid1.html
       href: aging.html
@@ -30,8 +32,11 @@ navbar:
          href: stats.html
        - text: "Causal inference"
          href: ci.html
+       - text: "Health economics"
+         href: he.html
        - text: "Guidelines"
          href: guid2.html
+
     - text: "Literature"
       menu:
        - text: "Something warm"

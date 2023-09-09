@@ -1,0 +1,103 @@
+---
+title: "Treatments for Alzheimer's disease"
+author:
+  - name: Bertil Gustav
+date: 2023-09-09
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{css, echo = FALSE}
+body {
+position: relative;
+left: -350px;
+width: 1800px
+}
+
+h1 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+
+h3 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+ul {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+p {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+```
+
+
+### **Important terms**
+- **Aducanumab**: 
+- **Lecanemab**: 
+- **Denanemab**:
+
+
+
+
+
+
+
+
+**Reference:**<br>
+Widera EW, Brangman SA, Chin NA. Ushering in a New Era of Alzheimer Disease Therapy. JAMA. 2023 Aug 8;330(6):503-504.<br>
+
+Schneider LS. Viewpoint: When It Comes to Lecanemab (and Donanemab), How Might We Think about 'Reasonable and Necessary'? J Prev Alzheimers Dis. 2023;10(3):342-343.<br> 
+
+van Dyck CH, Swanson CJ, Aisen P, Bateman RJ, Chen C, Gee M, Kanekiyo M, Li D, Reyderman L, Cohen S, Froelich L, Katayama S, Sabbagh M, Vellas B, Watson D, Dhadda S, Irizarry M, Kramer LD, Iwatsubo T. Lecanemab in Early Alzheimer's Disease. N Engl J Med. 2023 Jan 5;388(1):9-21.<br>
+
+Sims JR, Zimmer JA, Evans CD, Lu M, Ardayfio P, Sparks J, Wessels AM, Shcherbinin S, Wang H, Monkul Nery ES, Collins EC, Solomon P, Salloway S, Apostolova LG, Hansson O, Ritchie C, Brooks DA, Mintun M, Skovronsky DM; TRAILBLAZER-ALZ 2 Investigators. Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial. JAMA. 2023 Aug 8;330(6):512-527.<br>
+
+Cummings J, Apostolova L, Rabinovici GD, Atri A, Aisen P, Greenberg S, Hendrix S, Selkoe D, Weiner M, Petersen RC, Salloway S. Lecanemab: Appropriate Use Recommendations. J Prev Alzheimers Dis. 2023;10(3):362-377.<br>
+
+Manly JJ, Deters KD. Donanemab for Alzheimer Disease-Who Benefits and Who Is Harmed? JAMA. 2023 Aug 8;330(6):510-511.<br>
+
+Atwood CS, Perry G. Playing Russian Roulette with Alzheimer's Disease Patients: Do the Cognitive Benefits of Lecanemab Outweigh the Risk of Edema, Stroke and Encephalitis? J Alzheimers Dis. 2023;92(3):799-801.<br>
+
+Thambisetty M, Howard R. Lecanemab and APOE Genotyping in Clinical Practice-Navigating Uncharted Terrain. JAMA Neurol. 2023 May 1;80(5):431-432.<br>
+
+Rashad A, Rasool A, Shaheryar M, Sarfraz A, Sarfraz Z, Robles-Velasco K, Cherrez-Ojeda I. Donanemab for Alzheimer's Disease: A Systematic Review of Clinical Trials. Healthcare (Basel). 2022 Dec 22;11(1):32.<br>
+
+Burke JF, Kerber KA, Langa KM, Albin RL, Kotagal V. Lecanemab: Looking Before We Leap. Neurology. 2023 Jul 21:10.1212/WNL.0000000000207505.<br>
+
+McDade E, Cummings JL, Dhadda S, Swanson CJ, Reyderman L, Kanekiyo M, Koyama A, Irizarry M, Kramer LD, Bateman RJ. Lecanemab in patients with early Alzheimer's disease: detailed results on biomarker, cognitive, and clinical effects from the randomized and open-label extension of the phase 2 proof-of-concept study. Alzheimers Res Ther. 2022 Dec 21;14(1):191.<br>
+
+
+Gueorguieva I, Willis BA, Chua L, Chow K, Ernest CS, Shcherbinin S, Ardayfio P, Mullins GR, Sims JR. Donanemab Population Pharmacokinetics, Amyloid Plaque Reduction, and Safety in Participants with Alzheimer's Disease. Clin Pharmacol Ther. 2023 Jun;113(6):1258-1267.<br>
+
+
+Gueorguieva I, Willis BA, Chua L, Chow K, Ernest CS 2nd, Wang J, Shcherbinin S, Sims JR, Chigutsa E. Donanemab exposure and efficacy relationship using modeling in Alzheimer's disease. Alzheimers Dement (N Y). 2023 Jun 28;9(2):e12404.<br>
+
+
+Wessels AM, Dennehy EB, Dowsett SA, Dickson SP, Hendrix SB. Meaningful Clinical Changes in Alzheimer Disease Measured With the iADRS and Illustrated Using the Donanemab TRAILBLAZER-ALZ Study Findings. Neurol Clin Pract. 2023 Apr;13(2):e200127.<br>
+
+
+
+
+
+
+

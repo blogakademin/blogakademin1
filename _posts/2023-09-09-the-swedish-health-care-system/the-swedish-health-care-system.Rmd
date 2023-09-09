@@ -1,0 +1,70 @@
+---
+title: "The Swedish health care system"
+author:
+  - name: Bertil Gustav
+date: 2023-09-09
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{css, echo = FALSE}
+body {
+position: relative;
+left: -350px;
+width: 1800px
+}
+
+h1 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+
+h3 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+ul {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+p {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+```
+
+
+### **Important terms**
+
+
+
+
+
+
+
+**Reference:**<br>
+1. [Den nordiska äldreomsorgen-En jämförande kartläggning av struktur, organisation och innehåll](vardanalys.se/rapporter/den-nordiska-aldreomsorgen)<br>
+2. [Kvalitet i äldreomsorg ur ett anhörigperspektiv](https://anhoriga.se/globalassets/media/dokument/publicerat/rapporter/kortversion_kvalitet-2017-ny.pdf)<br>
+3. [Nära vård i sikte? Utvärdering av omställningen till en god och nära vård: delrapport](https://www.vardanalys.se/rapporter/nara-vard-i-sikte/)<br>
+4. [Stöd till anhöriga-erfarenheter från åtta kommuner 2010-2012](https://anhoriga.se/globalassets/media/dokument/publicerat/rapporter/stod-till-anhoriga--atta-kommuner.pdf)<br>
+5. [Sweden: health system review 2012](https://eurohealthobservatory.who.int/publications/i/sweden-health-system-review-2012)<br>
+6. [Vården ur befolkningens perspektiv, 65 år och äldre](https://www.vardanalys.se/rapporter/ihp-2021/)<br>
+
+

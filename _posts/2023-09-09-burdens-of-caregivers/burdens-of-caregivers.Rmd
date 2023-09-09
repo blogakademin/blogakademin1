@@ -1,0 +1,69 @@
+---
+title: "Burdens of caregivers"
+author:
+  - name: Bertil Gustav
+date: 2023-09-09
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{css, echo = FALSE}
+body {
+position: relative;
+left: -350px;
+width: 1800px
+}
+
+h1 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+
+h3 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+ul {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+p {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+```
+
+
+### **Important terms**
+
+
+
+
+
+
+
+**Reference:**<br>
+1. Pinquart M, Sörensen S. Correlates of physical health of informal caregivers: a meta-analysis. J Gerontol B Psychol Sci Soc Sci. 2007 Mar;62(2):P126-37.<br>
+2. Lindt N, van Berkel J, Mulder BC. Determinants of overburdening among informal carers: a systematic review. BMC Geriatr. 2020 Aug 26;20(1):304.<br>
+3. Cahill S, Bielsten T, Zarit SH. Developing a Framework for the Support of Informal Caregivers: Experiences from Sweden, Ireland, and the United States. Res Aging. 2023 Mar;45(3-4):385-395.<br>
+
+
+
+

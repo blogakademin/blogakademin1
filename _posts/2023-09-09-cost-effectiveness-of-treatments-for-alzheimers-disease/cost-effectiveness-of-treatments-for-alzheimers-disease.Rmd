@@ -1,0 +1,86 @@
+---
+title: "Cost-effectiveness of treatments for Alzheimer's disease"
+author:
+  - name: Bertil Gustav
+date: 2023-09-09
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{css, echo = FALSE}
+body {
+position: relative;
+left: -350px;
+width: 1800px
+}
+
+h1 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+
+h3 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+ul {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+p {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+```
+
+
+### **Important terms**
+- **Aducanumab**: 
+- **Lecanemab**: 
+- **Denanemab**:
+
+
+
+
+
+
+
+
+**Reference:**<br>
+1. Jönsson L, Wimo A. Viewpoint: Amyloid-targeting New Therapies for Alzheimer's Disease: A Health Economics Perspective. J Prev Alzheimers Dis. 2023;10(2):349-352.<br>
+
+Tahami Monfared AA, Ye W, Sardesai A, Folse H, Chavan A, Kang K, Zhang Q. Estimated Societal Value of Lecanemab in Patients with Early Alzheimer's Disease Using Simulation Modeling. Neurol Ther. 2023 Jun;12(3):795-814.<br>
+
+Tahami Monfared AA, Tafazzoli A, Ye W, Chavan A, Zhang Q. Long-Term Health Outcomes of Lecanemab in Patients with Early Alzheimer's Disease Using Simulation Modeling. Neurol Ther. 2022 Jun;11(2):863-880.<br>
+
+Rosenthal MB. Novel Alzheimer Disease Treatments and Reconsideration of US Pharmaceutical Reimbursement Policy. JAMA. 2023 Aug 8;330(6):505-506.<br>
+
+Tahami Monfared AA, Tafazzoli A, Chavan A, Ye W, Zhang Q. The Potential Economic Value of Lecanemab in Patients with Early Alzheimer's Disease Using Simulation Modeling. Neurol Ther. 2022 Sep;11(3):1285-1307.<br>
+
+Tahami Monfared AA, Ye W, Sardesai A, Folse H, Chavan A, Aruffo E, Zhang Q. A Path to Improved Alzheimer's Care: Simulating Long-Term Health Outcomes of Lecanemab in Early Alzheimer's Disease from the CLARITY AD Trial. Neurol Ther. 2023 Jun;12(3):863-881.<br>
+
+Igarashi A, Azuma MK, Zhang Q, Ye W, Sardesai A, Folse H, Chavan A, Tomita K, Tahami Monfared AA. Predicting the Societal Value of Lecanemab in Early Alzheimer's Disease in Japan: A Patient-Level Simulation. Neurol Ther. 2023 Aug;12(4):1133-1157.<br>
+
+Mattke S, Loh WK, Yuen KH, Yoong J. Preparedness of China's health care system to provide access to a disease-modifying Alzheimer's treatment. Alzheimers Dement. 2023 Jun 6.<br>
+
+Belder CRS, Schott JM, Fox NC. Preparing for disease-modifying therapies in Alzheimer's disease. Lancet Neurol. 2023 Sep;22(9):782-783.<br>
+
+
+

@@ -1,0 +1,68 @@
+---
+title: "Health economics-introduction"
+author:
+  - name: Bertil Gustav
+date: 2023-09-09
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{css, echo = FALSE}
+body {
+position: relative;
+left: -350px;
+width: 1800px
+}
+
+h1 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+
+h3 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+ul {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+p {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+```
+
+
+### **Important terms**
+
+
+
+
+
+
+
+**Reference:**<br>
+1. Drummond, M. F., Sculpher, M. J., Claxton, K., Stoddart, G. L., & Torrance, G. W. (2015). Methods for the Economic Evaluation of Health Care Programmes. (4th ed.) Oxford University Press.<br>
+2. Ross EL, Weinberg MS, Arnold SE. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease in the US. JAMA Neurol. 2022 May 1;79(5):478-487.<br>
+3. Cliff ERS, Kelkar AH. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease-Estimating the True Value. JAMA Neurol. 2022 Oct 3.<br>
+4. Mattke S. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease-Estimating the True Value. JAMA Neurol. 2022 Oct 3.<br>
+
+
