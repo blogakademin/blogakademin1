@@ -1,5 +1,7 @@
 ---
 title: "Cardiovascular disease prevention guidelines for older adults"
+description: | 
+  This post shares notes and reflections on medical guidelines on cardiovascular diseases.
 author:
   - name: Bertil Gustav
 date: 2023-08-27

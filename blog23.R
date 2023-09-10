@@ -39,3 +39,4 @@ create_post("Health economics-introduction")
 create_article(file="hcs")
 create_post("The Swedish health care system")
 create_post("Burdens of caregivers")
+
