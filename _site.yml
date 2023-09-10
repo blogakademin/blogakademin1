@@ -1,10 +1,9 @@
 name: "."
 title: "Bertil's thought plant"
-description: |
-  blog23
 output_dir: "docs"
 theme: blog23-theme.css
 navbar:
+  search: true
   right:
     - text: "Home"
       href: index.html
@@ -22,7 +21,7 @@ navbar:
         href: hcs.html
       - text: "Guidelines"
         href: guid1.html
-      href: aging.html
+      
     - text: "Methodology"
       menu:
        - text: "Epidemiology"
@@ -42,5 +41,5 @@ navbar:
          href: warm.html
        - text: "Something dark"
          href: dark.html
-  search: true
+
 output: distill::distill_article
