@@ -43,3 +43,4 @@ navbar:
          href: dark.html
 
 output: distill::distill_article
+post_header: '<a href="{{ post_href }}" target="_blank"><h2>{{ title }}</h2></a>'
