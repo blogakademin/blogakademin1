@@ -70,75 +70,87 @@ d-article p, d-article ul, d-article ol, d-article blockquote {
 }
 ```
 
-
-### **Important terms**
-- **Quality-adjusted life years (QALYs)**: 
-- **Efficacy and effectiveness**:<br>
-<br>
-
-
-### **Values of cost-effectiveness analysis**
-- Provide data for reimbursement decisions
-- Inform treatment guidelines
-- Provide pricing benchmark
-- Guide subsequent research<br>
-<br>
-
-### **Sources of costs**
-- The medicine itself: 
-- APOE genotyping: 
-- MRI scans to assess ARIA:
-- PET scans to assess amyloid clearance<br>
-<br>
-
 ### **Stakeholders**
 - Patients
-- Primary care clinics-early detection of AD
-- Specialty dementia clinics-diagnose AD and other types of dementia
-- Emergency departments and radiologists<br>
+- Healthcare providers: physicians, nurses, and other healthcare professionals 
+- Policymakers and government agencies
+- Healthcare payers: public and private payers
+- Health economists and researchers
+- Pharmaceutical and medical device manufacturers<br>
 <br>
+
+### **Cost component**
+- Direct Medical Costs
+  * The medicine itself, infusion supplies, services, etc
+  * Genotyping cost (e.g., APOE)??
+  * Monitoring: MRI scans to assess ARIA, PET scans to assess amyloid clearance
+  * Adverse event-associated costs (e.g., hospitalization), potential effects on cormorbidities?
+
+- Indirect Medical Costs
+  * Costs in specialised patient care or nursing homes
+  * Costs of training
+  
+- Non-Medical Costs
+  * Lost productivity and wages due to dementia-related absenteeism or early retirement.
+  * Costs of informal caregiving, including the time and effort spent by family members or friends providing care.
+  * Transportation costs<br>
+<br>
+
+### **Cost reduction**
+- Direct Medical Costs
+  * Potential effects on cormorbidities?
+- Indirect Medical Costs
+  * Costs in specialised patient care or nursing homes
+- Indirect Non-Medical Costs
+  * Lost productivity and wages due to dementia-related absenteeism or early retirement.
+  * Costs of informal caregiving, including the time and effort spent by family members or friends providing care.<br>
+<br>
+
 
 ### **Outcomes of interst in cost-effectiveness analyses**
 - Disease stage changes and survival
 - Cognitive and functional abilities
 - Quality of life
-- Caregiver burden
+- Caregiver burden, stress and quality of life
 - QALYs
-- Incremental cost-effectiveness ratios (ICER): difference in cost between two possible interventions, divided by the difference in their effect
-- Value-based prices: maximum price at which a treatment would be cost-effective given a cost-effectiveness threshold??
-- Likelihood of being cost-effective<br>
+- Changes in behavioral symptoms (e.g., agitation, aggression)
+- Hospitalization rates and lengths of stay
+- Utilization of healthcare services
+- Changes in patients' ability to engage in daily activities<br>
 <br>
 
 ### **Potential data sources for cost-effectiveness analyses**
 - Published data from clinical trials
-- Published data on AD natural history, its associated costs<br>
+- Published data on AD natural history, its associated costs
+- Observational studies based on registers and cohorts, etc.<br>
 <br>
 
 
-### **Statistical analyses**
-- Disease stage and stage-specific health care cost, additional societal cost, utility (quality of life associated with different health states or interventions), mortality
-- Outpatient care, inpatient care, home care, medications, and long-term care, and societal costs
-- Adverse event and associated cost and utility decrement
-- Costs of drugs, infusion supplies, services, monitoring, screening workup
-- Cycle length and transition probability
-- Transition probability of adverse event<br>
-<br>
-
-### **Parameter specification**
-- Transition probabilities
-- Hazard ratios for transition probabilities
-- Effect-specific QALYs: e.g., 0.8 gains in QALYs per 20% treatment effects??<br>
+### **Statistical analyses and parameter specifications**
+- Multistate modeling: need real data
+- Microsimulation: need to define the population and rules
+  * Disease stage and stage-specific health care cost, additional societal cost, utility (quality of life associated with different health states or interventions), mortality
+  * Time scale and unit
+  * Transition probability of outcoems and adverse event, their hazard ratios
+  * Effect-specific QALYs: e.g., 0.8 gains in QALYs per 20% treatment effects??
+  
+- Output
+  * Incremental cost-effectiveness ratios (ICER): difference in cost between two possible interventions (e.g., new intervention vs. standard care), divided by the difference in their effect, usually costs/QALYs
+  * Value-based prices=(WTP Threshold) or cost-effectiveness threshold $\times$ (Incremental QALYs); willingess-to-pay (WTP),the maximum amount society is willing to pay for an additional QALY
+  * Incremental QALYs = QALYs with New Intervention - QALYs with Comparator or Standard Intervention<br>
 <br>
 
 
 
 ### **Challenges to consider in cost-effectiveness analyses**
-- Practical challenges
 - Methodological challenges
   * Account for benefits/harm in terms of comorbidities
   * Assumptions of off-label usage?? and treatment adherence
+  * Reply on published data which may be subject to biases
+  * Quantify non-medical costs, e.g., informal care costs
 - Other considerations
-  * Currency value fluctuations<br>
+  * Rapid changes in the field, biomarkers, treatments<br>
+  * how to determine willingness to pay and cost-effectiveness threshold?<br>
 <br>
 
 

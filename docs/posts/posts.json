@@ -17,40 +17,6 @@
     "input_file": {}
   },
   {
-    "path": "posts/2023-09-09-cost-effectiveness-of-treatments-for-alzheimers-disease/",
-    "title": "Cost-effectiveness of treatments for Alzheimer's disease",
-    "description": {},
-    "author": [
-      {
-        "name": "Bertil Gustav",
-        "url": {}
-      }
-    ],
-    "date": "2023-09-09",
-    "categories": [],
-    "contents": "\r\n\r\n\r\nImportant terms\r\nQuality-adjusted life years (QALYs):\r\nEfficacy and effectiveness:\r\nValues of cost-effectiveness analysis\r\nProvide data for reimbursement decisions\r\nInform treatment guidelines\r\nProvide pricing benchmark\r\nGuide subsequent research\r\nSources of costs\r\nThe medicine itself:\r\nAPOE genotyping:\r\nMRI scans to assess ARIA:\r\nPET scans to assess amyloid clearance\r\nStakeholders\r\nPatients\r\nPrimary care clinics-early detection of AD\r\nSpecialty dementia clinics-diagnose AD and other types of dementia\r\nEmergency departments and radiologists\r\nOutcomes of interst in cost-effectiveness analyses\r\nDisease stage changes and survival\r\nCognitive and functional abilities\r\nQuality of life\r\nCaregiver burden\r\nQALYs\r\nIncremental cost-effectiveness ratios (ICER): difference in cost between two possible interventions, divided by the difference in their effect\r\nValue-based prices: maximum price at which a treatment would be cost-effective given a cost-effectiveness threshold??\r\nLikelihood of being cost-effective\r\nPotential data sources for cost-effectiveness analyses\r\nPublished data from clinical trials\r\nPublished data on AD natural history, its associated costs\r\nStatistical analyses\r\nDisease stage and stage-specific health care cost, additional societal cost, utility (quality of life associated with different health states or interventions), mortality\r\nOutpatient care, inpatient care, home care, medications, and long-term care, and societal costs\r\nAdverse event and associated cost and utility decrement\r\nCosts of drugs, infusion supplies, services, monitoring, screening workup\r\nCycle length and transition probability\r\nTransition probability of adverse event\r\nParameter specification\r\nTransition probabilities\r\nHazard ratios for transition probabilities\r\nEffect-specific QALYs: e.g., 0.8 gains in QALYs per 20% treatment effects??\r\nChallenges to consider in cost-effectiveness analyses\r\nPractical challenges\r\nMethodological challenges\r\nAccount for benefits/harm in terms of comorbidities\r\nAssumptions of off-label usage?? and treatment adherence\r\n\r\nOther considerations\r\nCurrency value fluctuations\r\n\r\nReference:\r\n1. Jönsson L, Wimo A. Viewpoint: Amyloid-targeting New Therapies for Alzheimer’s Disease: A Health Economics Perspective. J Prev Alzheimers Dis. 2023;10(2):349-352.\r\nTahami Monfared AA, Ye W, Sardesai A, Folse H, Chavan A, Kang K, Zhang Q. Estimated Societal Value of Lecanemab in Patients with Early Alzheimer’s Disease Using Simulation Modeling. Neurol Ther. 2023 Jun;12(3):795-814.\r\nTahami Monfared AA, Tafazzoli A, Ye W, Chavan A, Zhang Q. Long-Term Health Outcomes of Lecanemab in Patients with Early Alzheimer’s Disease Using Simulation Modeling. Neurol Ther. 2022 Jun;11(2):863-880.\r\nRosenthal MB. Novel Alzheimer Disease Treatments and Reconsideration of US Pharmaceutical Reimbursement Policy. JAMA. 2023 Aug 8;330(6):505-506.\r\nTahami Monfared AA, Tafazzoli A, Chavan A, Ye W, Zhang Q. The Potential Economic Value of Lecanemab in Patients with Early Alzheimer’s Disease Using Simulation Modeling. Neurol Ther. 2022 Sep;11(3):1285-1307.\r\nTahami Monfared AA, Ye W, Sardesai A, Folse H, Chavan A, Aruffo E, Zhang Q. A Path to Improved Alzheimer’s Care: Simulating Long-Term Health Outcomes of Lecanemab in Early Alzheimer’s Disease from the CLARITY AD Trial. Neurol Ther. 2023 Jun;12(3):863-881.\r\nIgarashi A, Azuma MK, Zhang Q, Ye W, Sardesai A, Folse H, Chavan A, Tomita K, Tahami Monfared AA. Predicting the Societal Value of Lecanemab in Early Alzheimer’s Disease in Japan: A Patient-Level Simulation. Neurol Ther. 2023 Aug;12(4):1133-1157.\r\nMattke S, Loh WK, Yuen KH, Yoong J. Preparedness of China’s health care system to provide access to a disease-modifying Alzheimer’s treatment. Alzheimers Dement. 2023 Jun 6.\r\nBelder CRS, Schott JM, Fox NC. Preparing for disease-modifying therapies in Alzheimer’s disease. Lancet Neurol. 2023 Sep;22(9):782-783.\r\nBauer K, Schwarzkopf L, Graessel E, Holle R. A claims data-based comparison of comorbidity in individuals with and without dementia. BMC Geriatr. 2014 Jan 28;14:10.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2023-09-10T16:29:42+02:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2023-09-09-health-economics-introduction/",
-    "title": "Health economics-introduction",
-    "description": {},
-    "author": [
-      {
-        "name": "Bertil Gustav",
-        "url": {}
-      }
-    ],
-    "date": "2023-09-09",
-    "categories": [],
-    "contents": "\r\n\r\n\r\nImportant terms\r\nReference:\r\n1. Drummond, M. F., Sculpher, M. J., Claxton, K., Stoddart, G. L., & Torrance, G. W. (2015). Methods for the Economic Evaluation of Health Care Programmes. (4th ed.) Oxford University Press.\r\n2. Ross EL, Weinberg MS, Arnold SE. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease in the US. JAMA Neurol. 2022 May 1;79(5):478-487.\r\n3. Cliff ERS, Kelkar AH. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease-Estimating the True Value. JAMA Neurol. 2022 Oct 3.\r\n4. Mattke S. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease-Estimating the True Value. JAMA Neurol. 2022 Oct 3.\r\n5. Husereau D, Drummond M, Augustovski F, de Bekker-Grob E, Briggs AH, Carswell C, Caulley L, Chaiyakunapruk N, Greenberg D, Loder E, Mauskopf J, Mullins CD, Petrou S, Pwu RF, Staniszewska S; CHEERS 2022 ISPOR Good Research Practices Task Force. Consolidated Health Economic Evaluation Reporting Standards 2022 (CHEERS 2022) Statement: Updated Reporting Guidance for Health Economic Evaluations. Value Health. 2022 Jan;25(1):3-9.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2023-09-10T15:59:37+02:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2023-09-09-the-swedish-health-care-system/",
     "title": "The Swedish health care system",
     "description": {},
@@ -65,23 +31,6 @@
     "contents": "\r\n\r\n\r\nImportant terms\r\nReference:\r\n1. Den nordiska äldreomsorgen-En jämförande kartläggning av struktur, organisation och innehåll\r\n2. Kvalitet i äldreomsorg ur ett anhörigperspektiv\r\n3. Nära vård i sikte? Utvärdering av omställningen till en god och nära vård: delrapport\r\n4. Stöd till anhöriga-erfarenheter från åtta kommuner 2010-2012\r\n5. Sweden: health system review 2012\r\n6. Vården ur befolkningens perspektiv, 65 år och äldre\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2023-09-09T23:55:02+02:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2023-09-09-treatments-for-alzheimers-disease/",
-    "title": "Treatments for Alzheimer's disease",
-    "description": {},
-    "author": [
-      {
-        "name": "Bertil Gustav",
-        "url": {}
-      }
-    ],
-    "date": "2023-09-09",
-    "categories": [],
-    "contents": "\r\n\r\n\r\nImportant terms\r\nSum of boxes of the Clinical Dementia Rating Scale (CDR-SB):\r\nAmyloid-related imaging abnormalities (ARIA):\r\nAducanumab:\r\nLecanemab (CLARITY-AD study):\r\nDenanemab (TRAILBLAZER-ALZ 2 study):\r\nMCI and mild-stage dementia due to AD, with amyloid and tau pathology confirmed by PET scans, people aged 85 years and above were excluded.\r\n18-month double-blinded, placebo-controlled, intravenous infusion every 4 weeks.\r\nCDR-SB declined by 1.72 and 2.42 points (0.7 difference) in the treated and placebo receivers; 1/4-1/2 year longer stable status; 18% more people with Donanemab stayed stable on CDR-SB than with placebo at one year.\r\nhomozygous APOE e4 allele carriers, people with cerebral amyloid angiography, and people taking anticoagulant drugs. \r\n\r\nRemaining questions\r\nWill future maintenance doses be needed?\r\nReference:\r\nWidera EW, Brangman SA, Chin NA. Ushering in a New Era of Alzheimer Disease Therapy. JAMA. 2023 Aug 8;330(6):503-504.\r\nSchneider LS. Viewpoint: When It Comes to Lecanemab (and Donanemab), How Might We Think about ‘Reasonable and Necessary’? J Prev Alzheimers Dis. 2023;10(3):342-343.\r\nvan Dyck CH, Swanson CJ, Aisen P, Bateman RJ, Chen C, Gee M, Kanekiyo M, Li D, Reyderman L, Cohen S, Froelich L, Katayama S, Sabbagh M, Vellas B, Watson D, Dhadda S, Irizarry M, Kramer LD, Iwatsubo T. Lecanemab in Early Alzheimer’s Disease. N Engl J Med. 2023 Jan 5;388(1):9-21.\r\nSims JR, Zimmer JA, Evans CD, Lu M, Ardayfio P, Sparks J, Wessels AM, Shcherbinin S, Wang H, Monkul Nery ES, Collins EC, Solomon P, Salloway S, Apostolova LG, Hansson O, Ritchie C, Brooks DA, Mintun M, Skovronsky DM; TRAILBLAZER-ALZ 2 Investigators. Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial. JAMA. 2023 Aug 8;330(6):512-527.\r\nCummings J, Apostolova L, Rabinovici GD, Atri A, Aisen P, Greenberg S, Hendrix S, Selkoe D, Weiner M, Petersen RC, Salloway S. Lecanemab: Appropriate Use Recommendations. J Prev Alzheimers Dis. 2023;10(3):362-377.\r\nManly JJ, Deters KD. Donanemab for Alzheimer Disease-Who Benefits and Who Is Harmed? JAMA. 2023 Aug 8;330(6):510-511.\r\nAtwood CS, Perry G. Playing Russian Roulette with Alzheimer’s Disease Patients: Do the Cognitive Benefits of Lecanemab Outweigh the Risk of Edema, Stroke and Encephalitis? J Alzheimers Dis. 2023;92(3):799-801.\r\nThambisetty M, Howard R. Lecanemab and APOE Genotyping in Clinical Practice-Navigating Uncharted Terrain. JAMA Neurol. 2023 May 1;80(5):431-432.\r\nRashad A, Rasool A, Shaheryar M, Sarfraz A, Sarfraz Z, Robles-Velasco K, Cherrez-Ojeda I. Donanemab for Alzheimer’s Disease: A Systematic Review of Clinical Trials. Healthcare (Basel). 2022 Dec 22;11(1):32.\r\nBurke JF, Kerber KA, Langa KM, Albin RL, Kotagal V. Lecanemab: Looking Before We Leap. Neurology. 2023 Jul 21:10.1212/WNL.0000000000207505.\r\nMcDade E, Cummings JL, Dhadda S, Swanson CJ, Reyderman L, Kanekiyo M, Koyama A, Irizarry M, Kramer LD, Bateman RJ. Lecanemab in patients with early Alzheimer’s disease: detailed results on biomarker, cognitive, and clinical effects from the randomized and open-label extension of the phase 2 proof-of-concept study. Alzheimers Res Ther. 2022 Dec 21;14(1):191.\r\nGueorguieva I, Willis BA, Chua L, Chow K, Ernest CS, Shcherbinin S, Ardayfio P, Mullins GR, Sims JR. Donanemab Population Pharmacokinetics, Amyloid Plaque Reduction, and Safety in Participants with Alzheimer’s Disease. Clin Pharmacol Ther. 2023 Jun;113(6):1258-1267.\r\nGueorguieva I, Willis BA, Chua L, Chow K, Ernest CS 2nd, Wang J, Shcherbinin S, Sims JR, Chigutsa E. Donanemab exposure and efficacy relationship using modeling in Alzheimer’s disease. Alzheimers Dement (N Y). 2023 Jun 28;9(2):e12404.\r\nWessels AM, Dennehy EB, Dowsett SA, Dickson SP, Hendrix SB. Meaningful Clinical Changes in Alzheimer Disease Measured With the iADRS and Illustrated Using the Donanemab TRAILBLAZER-ALZ Study Findings. Neurol Clin Pract. 2023 Apr;13(2):e200127.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2023-09-10T14:10:00+02:00",
     "input_file": {}
   },
   {
@@ -100,6 +49,57 @@
     "preview": {},
     "last_modified": "2023-09-09T23:54:46+02:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2023-09-09-cost-effectiveness-of-treatments-for-alzheimers-disease/",
+    "title": "Cost-effectiveness of treatments for Alzheimer's disease",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nStakeholders\r\nPatients\r\nHealthcare providers: physicians, nurses, and other healthcare professionals\r\nPolicymakers and government agencies\r\nHealthcare payers: public and private payers\r\nHealth economists and researchers\r\nPharmaceutical and medical device manufacturers\r\nCost component\r\nDirect Medical Costs\r\nThe medicine itself, infusion supplies, services, etc\r\nGenotyping cost (e.g., APOE)??\r\nMonitoring: MRI scans to assess ARIA, PET scans to assess amyloid clearance\r\nAdverse event-associated costs (e.g., hospitalization), potential effects on cormorbidities?\r\n\r\nIndirect Medical Costs\r\nCosts in specialised patient care or nursing homes\r\nCosts of training\r\n\r\nNon-Medical Costs\r\nLost productivity and wages due to dementia-related absenteeism or early retirement.\r\nCosts of informal caregiving, including the time and effort spent by family members or friends providing care.\r\nTransportation costs\r\n\r\nCost reduction\r\nDirect Medical Costs\r\nPotential effects on cormorbidities?\r\n\r\nIndirect Medical Costs\r\nCosts in specialised patient care or nursing homes\r\n\r\nIndirect Non-Medical Costs\r\nLost productivity and wages due to dementia-related absenteeism or early retirement.\r\nCosts of informal caregiving, including the time and effort spent by family members or friends providing care.\r\n\r\nOutcomes of interst in cost-effectiveness analyses\r\nDisease stage changes and survival\r\nCognitive and functional abilities\r\nQuality of life\r\nCaregiver burden, stress and quality of life\r\nQALYs\r\nChanges in behavioral symptoms (e.g., agitation, aggression)\r\nHospitalization rates and lengths of stay\r\nUtilization of healthcare services\r\nChanges in patients’ ability to engage in daily activities\r\nPotential data sources for cost-effectiveness analyses\r\nPublished data from clinical trials\r\nPublished data on AD natural history, its associated costs\r\nObservational studies based on registers and cohorts, etc.\r\nStatistical analyses and parameter specifications\r\nMultistate modeling: need real data\r\nMicrosimulation: need to define the population and rules\r\nDisease stage and stage-specific health care cost, additional societal cost, utility (quality of life associated with different health states or interventions), mortality\r\nTime scale and unit\r\nTransition probability of outcoems and adverse event, their hazard ratios\r\nEffect-specific QALYs: e.g., 0.8 gains in QALYs per 20% treatment effects??\r\n\r\nOutput\r\nIncremental cost-effectiveness ratios (ICER): difference in cost between two possible interventions (e.g., new intervention vs. standard care), divided by the difference in their effect, usually costs/QALYs\r\nValue-based prices=(WTP Threshold) or cost-effectiveness threshold \\(\\times\\) (Incremental QALYs); willingess-to-pay (WTP),the maximum amount society is willing to pay for an additional QALY\r\nIncremental QALYs = QALYs with New Intervention - QALYs with Comparator or Standard Intervention\r\n\r\nChallenges to consider in cost-effectiveness analyses\r\nMethodological challenges\r\nAccount for benefits/harm in terms of comorbidities\r\nAssumptions of off-label usage?? and treatment adherence\r\nReply on published data which may be subject to biases\r\nQuantify non-medical costs, e.g., informal care costs\r\n\r\nOther considerations\r\nRapid changes in the field, biomarkers, treatments\r\nhow to determine willingness to pay and cost-effectiveness threshold?\r\n\r\nReference:\r\n1. Jönsson L, Wimo A. Viewpoint: Amyloid-targeting New Therapies for Alzheimer’s Disease: A Health Economics Perspective. J Prev Alzheimers Dis. 2023;10(2):349-352.\r\nTahami Monfared AA, Ye W, Sardesai A, Folse H, Chavan A, Kang K, Zhang Q. Estimated Societal Value of Lecanemab in Patients with Early Alzheimer’s Disease Using Simulation Modeling. Neurol Ther. 2023 Jun;12(3):795-814.\r\nTahami Monfared AA, Tafazzoli A, Ye W, Chavan A, Zhang Q. Long-Term Health Outcomes of Lecanemab in Patients with Early Alzheimer’s Disease Using Simulation Modeling. Neurol Ther. 2022 Jun;11(2):863-880.\r\nRosenthal MB. Novel Alzheimer Disease Treatments and Reconsideration of US Pharmaceutical Reimbursement Policy. JAMA. 2023 Aug 8;330(6):505-506.\r\nTahami Monfared AA, Tafazzoli A, Chavan A, Ye W, Zhang Q. The Potential Economic Value of Lecanemab in Patients with Early Alzheimer’s Disease Using Simulation Modeling. Neurol Ther. 2022 Sep;11(3):1285-1307.\r\nTahami Monfared AA, Ye W, Sardesai A, Folse H, Chavan A, Aruffo E, Zhang Q. A Path to Improved Alzheimer’s Care: Simulating Long-Term Health Outcomes of Lecanemab in Early Alzheimer’s Disease from the CLARITY AD Trial. Neurol Ther. 2023 Jun;12(3):863-881.\r\nIgarashi A, Azuma MK, Zhang Q, Ye W, Sardesai A, Folse H, Chavan A, Tomita K, Tahami Monfared AA. Predicting the Societal Value of Lecanemab in Early Alzheimer’s Disease in Japan: A Patient-Level Simulation. Neurol Ther. 2023 Aug;12(4):1133-1157.\r\nMattke S, Loh WK, Yuen KH, Yoong J. Preparedness of China’s health care system to provide access to a disease-modifying Alzheimer’s treatment. Alzheimers Dement. 2023 Jun 6.\r\nBelder CRS, Schott JM, Fox NC. Preparing for disease-modifying therapies in Alzheimer’s disease. Lancet Neurol. 2023 Sep;22(9):782-783.\r\nBauer K, Schwarzkopf L, Graessel E, Holle R. A claims data-based comparison of comorbidity in individuals with and without dementia. BMC Geriatr. 2014 Jan 28;14:10.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-10T19:05:49+02:00",
+    "input_file": "cost-effectiveness-of-treatments-for-alzheimers-disease.knit.md"
+  },
+  {
+    "path": "posts/2023-09-09-treatments-for-alzheimers-disease/",
+    "title": "Treatments for Alzheimer's disease",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nImportant terms\r\nSum of boxes of the Clinical Dementia Rating Scale (CDR-SB):\r\nAmyloid-related imaging abnormalities (ARIA):\r\nAducanumab:\r\nLecanemab (CLARITY-AD study):\r\nDenanemab (TRAILBLAZER-ALZ 2 study):\r\nMCI and mild-stage dementia due to AD, with amyloid and tau pathology confirmed by PET scans, people aged 85 years and above were excluded.\r\n18-month double-blinded, placebo-controlled, intravenous infusion every 4 weeks.\r\nCDR-SB declined by 1.72 and 2.42 points (0.7 difference) in the treated and placebo receivers; 1/4-1/2 year longer stable status; 18% more people with Donanemab stayed stable on CDR-SB than with placebo at one year.\r\nhomozygous APOE e4 allele carriers, people with cerebral amyloid angiography, and people taking anticoagulant drugs. \r\n\r\nRemaining questions\r\nWill future maintenance doses be needed?\r\nAffected stakeholders\r\nPatients and caregivers\r\nPrimary care clinics-early detection of AD\r\nSpecialty dementia clinics-diagnose AD and other types of dementia\r\nEmergency departments and radiologists\r\nReference:\r\nWidera EW, Brangman SA, Chin NA. Ushering in a New Era of Alzheimer Disease Therapy. JAMA. 2023 Aug 8;330(6):503-504.\r\nSchneider LS. Viewpoint: When It Comes to Lecanemab (and Donanemab), How Might We Think about ‘Reasonable and Necessary’? J Prev Alzheimers Dis. 2023;10(3):342-343.\r\nvan Dyck CH, Swanson CJ, Aisen P, Bateman RJ, Chen C, Gee M, Kanekiyo M, Li D, Reyderman L, Cohen S, Froelich L, Katayama S, Sabbagh M, Vellas B, Watson D, Dhadda S, Irizarry M, Kramer LD, Iwatsubo T. Lecanemab in Early Alzheimer’s Disease. N Engl J Med. 2023 Jan 5;388(1):9-21.\r\nSims JR, Zimmer JA, Evans CD, Lu M, Ardayfio P, Sparks J, Wessels AM, Shcherbinin S, Wang H, Monkul Nery ES, Collins EC, Solomon P, Salloway S, Apostolova LG, Hansson O, Ritchie C, Brooks DA, Mintun M, Skovronsky DM; TRAILBLAZER-ALZ 2 Investigators. Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial. JAMA. 2023 Aug 8;330(6):512-527.\r\nCummings J, Apostolova L, Rabinovici GD, Atri A, Aisen P, Greenberg S, Hendrix S, Selkoe D, Weiner M, Petersen RC, Salloway S. Lecanemab: Appropriate Use Recommendations. J Prev Alzheimers Dis. 2023;10(3):362-377.\r\nManly JJ, Deters KD. Donanemab for Alzheimer Disease-Who Benefits and Who Is Harmed? JAMA. 2023 Aug 8;330(6):510-511.\r\nAtwood CS, Perry G. Playing Russian Roulette with Alzheimer’s Disease Patients: Do the Cognitive Benefits of Lecanemab Outweigh the Risk of Edema, Stroke and Encephalitis? J Alzheimers Dis. 2023;92(3):799-801.\r\nThambisetty M, Howard R. Lecanemab and APOE Genotyping in Clinical Practice-Navigating Uncharted Terrain. JAMA Neurol. 2023 May 1;80(5):431-432.\r\nRashad A, Rasool A, Shaheryar M, Sarfraz A, Sarfraz Z, Robles-Velasco K, Cherrez-Ojeda I. Donanemab for Alzheimer’s Disease: A Systematic Review of Clinical Trials. Healthcare (Basel). 2022 Dec 22;11(1):32.\r\nBurke JF, Kerber KA, Langa KM, Albin RL, Kotagal V. Lecanemab: Looking Before We Leap. Neurology. 2023 Jul 21:10.1212/WNL.0000000000207505.\r\nMcDade E, Cummings JL, Dhadda S, Swanson CJ, Reyderman L, Kanekiyo M, Koyama A, Irizarry M, Kramer LD, Bateman RJ. Lecanemab in patients with early Alzheimer’s disease: detailed results on biomarker, cognitive, and clinical effects from the randomized and open-label extension of the phase 2 proof-of-concept study. Alzheimers Res Ther. 2022 Dec 21;14(1):191.\r\nGueorguieva I, Willis BA, Chua L, Chow K, Ernest CS, Shcherbinin S, Ardayfio P, Mullins GR, Sims JR. Donanemab Population Pharmacokinetics, Amyloid Plaque Reduction, and Safety in Participants with Alzheimer’s Disease. Clin Pharmacol Ther. 2023 Jun;113(6):1258-1267.\r\nGueorguieva I, Willis BA, Chua L, Chow K, Ernest CS 2nd, Wang J, Shcherbinin S, Sims JR, Chigutsa E. Donanemab exposure and efficacy relationship using modeling in Alzheimer’s disease. Alzheimers Dement (N Y). 2023 Jun 28;9(2):e12404.\r\nWessels AM, Dennehy EB, Dowsett SA, Dickson SP, Hendrix SB. Meaningful Clinical Changes in Alzheimer Disease Measured With the iADRS and Illustrated Using the Donanemab TRAILBLAZER-ALZ Study Findings. Neurol Clin Pract. 2023 Apr;13(2):e200127.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-10T19:06:36+02:00",
+    "input_file": "treatments-for-alzheimers-disease.knit.md"
+  },
+  {
+    "path": "posts/2023-09-09-health-economics-introduction/",
+    "title": "Health economics-introduction",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nImportant terms\r\nBase-case analysis:\r\nQuality-adjusted life years (QALYs): life year \\(\\times\\) health utility weight??\r\nEfficacy and effectiveness: the extent to which an intervention can achieve desired outcome in ideal situation and in reality.\r\nValues of cost-effectiveness analysis\r\nProvide data for reimbursement decisions\r\nInform treatment guidelines\r\nProvide pricing benchmark\r\nGuide subsequent research\r\nReference:\r\n1. Drummond, M. F., Sculpher, M. J., Claxton, K., Stoddart, G. L., & Torrance, G. W. (2015). Methods for the Economic Evaluation of Health Care Programmes. (4th ed.) Oxford University Press.\r\n2. Ross EL, Weinberg MS, Arnold SE. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease in the US. JAMA Neurol. 2022 May 1;79(5):478-487.\r\n3. Cliff ERS, Kelkar AH. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease-Estimating the True Value. JAMA Neurol. 2022 Oct 3.\r\n4. Mattke S. Cost-effectiveness of Aducanumab and Donanemab for Early Alzheimer Disease-Estimating the True Value. JAMA Neurol. 2022 Oct 3.\r\n5. Husereau D, Drummond M, Augustovski F, de Bekker-Grob E, Briggs AH, Carswell C, Caulley L, Chaiyakunapruk N, Greenberg D, Loder E, Mauskopf J, Mullins CD, Petrou S, Pwu RF, Staniszewska S; CHEERS 2022 ISPOR Good Research Practices Task Force. Consolidated Health Economic Evaluation Reporting Standards 2022 (CHEERS 2022) Statement: Updated Reporting Guidance for Health Economic Evaluations. Value Health. 2022 Jan;25(1):3-9.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-10T19:07:13+02:00",
+    "input_file": "health-economics-introduction.knit.md"
   },
   {
     "path": "posts/2023-08-27-cardiovascular-disease-prevention-guidelines-for-older-adults/",

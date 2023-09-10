@@ -33,6 +33,11 @@ border: 0px;
 width: 1200px;
 }
 
+d-article h3 {
+    margin-top: 0.3rem;
+    margin-bottom: 0em;
+}
+
 ul {
 text-indent: 0;
 margin: 0px;
@@ -43,16 +48,40 @@ width: 1200px;
 
 p {
 text-indent: 0;
-margin: 0px;
 padding: -1;
 border: 0px;
 width: 1200px;
+margin-top: 1rem;
+}
+
+d-article li {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+d-article p, d-article ul, d-article ol, d-article blockquote {
+    margin-top: 1;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
 }
 ```
 
 
 ### **Important terms**
+- **Base-case analysis**:
+- **Quality-adjusted life years (QALYs)**: life year $\times$ health utility weight??
+- **Efficacy and effectiveness**: the extent to which an intervention can achieve desired outcome in ideal situation and in reality.<br>
+<br>
 
+### **Values of cost-effectiveness analysis**
+- Provide data for reimbursement decisions
+- Inform treatment guidelines
+- Provide pricing benchmark
+- Guide subsequent research<br>
+<br>
 
 
 

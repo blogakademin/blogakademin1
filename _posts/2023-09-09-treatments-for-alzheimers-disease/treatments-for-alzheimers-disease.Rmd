@@ -88,7 +88,12 @@ d-article p, d-article ul, d-article ol, d-article blockquote {
 <br>
 
 
-
+### **Affected stakeholders**
+- Patients and caregivers
+- Primary care clinics-early detection of AD
+- Specialty dementia clinics-diagnose AD and other types of dementia
+- Emergency departments and radiologists<br>
+<br>
 
 
 
