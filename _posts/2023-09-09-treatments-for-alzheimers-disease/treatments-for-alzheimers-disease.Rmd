@@ -9,6 +9,7 @@ output:
 ---
 
 
+
 ```{css, echo = FALSE}
 body {
 position: relative;
@@ -33,6 +34,11 @@ border: 0px;
 width: 1200px;
 }
 
+d-article h3 {
+    margin-top: 0.3rem;
+    margin-bottom: 0em;
+}
+
 ul {
 text-indent: 0;
 margin: 0px;
@@ -43,18 +49,43 @@ width: 1200px;
 
 p {
 text-indent: 0;
-margin: 0px;
 padding: -1;
 border: 0px;
 width: 1200px;
+margin-top: 1rem;
+}
+
+d-article li {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+d-article p, d-article ul, d-article ol, d-article blockquote {
+    margin-top: 1;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
 }
 ```
 
 
 ### **Important terms**
+- **Sum of boxes of the Clinical Dementia Rating Scale (CDR-SB)**:
+- **Amyloid-related imaging abnormalities (ARIA)**:
 - **Aducanumab**: 
-- **Lecanemab**: 
-- **Denanemab**:
+- **Lecanemab (CLARITY-AD study)**: 
+- **Denanemab (TRAILBLAZER-ALZ 2 study)**: 
+  * MCI and mild-stage dementia due to AD, with amyloid and tau pathology confirmed by PET scans, people aged 85 years and above were excluded.
+  * 18-month double-blinded, placebo-controlled, intravenous infusion every 4 weeks.
+  * CDR-SB declined by 1.72 and 2.42 points (0.7 difference) in the treated and placebo receivers; 1/4-1/2 year longer stable status; 18% more people with Donanemab stayed stable on CDR-SB than with placebo at one year.
+  * homozygous APOE e4 allele carriers, people with cerebral amyloid angiography, and people taking anticoagulant drugs. <br>
+<br>
+
+### **Remaining questions**
+1. Will future maintenance doses be needed?<br>
+<br>
 
 
 
@@ -63,7 +94,7 @@ width: 1200px;
 
 
 
-**Reference:**<br>
+### **Reference:**<br>
 Widera EW, Brangman SA, Chin NA. Ushering in a New Era of Alzheimer Disease Therapy. JAMA. 2023 Aug 8;330(6):503-504.<br>
 
 Schneider LS. Viewpoint: When It Comes to Lecanemab (and Donanemab), How Might We Think about 'Reasonable and Necessary'? J Prev Alzheimers Dis. 2023;10(3):342-343.<br> 
