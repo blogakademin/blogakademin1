@@ -54,11 +54,14 @@ width: 1200px;
 
 ### **Important terms**
 - **Chronic care model (CCM)**: a model designed for ambulatory care for people with chronic conditions, mainly hypertension, diabetes, cardiovascular diseases, chronic obstructive pulmonary diseases. CCM has 6 core components: delivery system, self-management support, decision support, clinical information system, community resources for patients, health systems.
-- **telehealth**:
+- **Telehealth**:
 
 
 
-
+| Header 1 | Header 2 |
+|----------|----------|
+| Cell 1,1 | Cell 1,2 |
+| Cell 2,1 | Cell 2,2 |
 
 
 

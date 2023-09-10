@@ -60,7 +60,7 @@ width: 1200px;
 
 
 **Reference:**<br>
-1. [Den nordiska äldreomsorgen-En jämförande kartläggning av struktur, organisation och innehåll](https://www.vardanalys.se/rapporter/den-nordiska-aldreomsorgen/)<br>
+1. [Den nordiska äldreomsorgen-En jämförande kartläggning av struktur, organisation och innehåll](https://www.vardanalys.se/rapporter/den-nordiska-aldreomsorgen/){target="_blank"}<br>
 2. [Kvalitet i äldreomsorg ur ett anhörigperspektiv](https://anhoriga.se/globalassets/media/dokument/publicerat/rapporter/kortversion_kvalitet-2017-ny.pdf)<br>
 3. [Nära vård i sikte? Utvärdering av omställningen till en god och nära vård: delrapport](https://www.vardanalys.se/rapporter/nara-vard-i-sikte/)<br>
 4. [Stöd till anhöriga-erfarenheter från åtta kommuner 2010-2012](https://anhoriga.se/globalassets/media/dokument/publicerat/rapporter/stod-till-anhoriga--atta-kommuner.pdf)<br>
