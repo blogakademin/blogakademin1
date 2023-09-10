@@ -74,9 +74,13 @@ d-article p, d-article ul, d-article ol, d-article blockquote {
 ### **Important terms**
 - **Sum of boxes of the Clinical Dementia Rating Scale (CDR-SB)**:
 - **Amyloid-related imaging abnormalities (ARIA)**:
-- **Aducanumab**: 
-- **Lecanemab (CLARITY-AD study)**: 
-- **Denanemab (TRAILBLAZER-ALZ 2 study)**: 
+- **Aducanumab**: [Trial protocol](https://cdn.jamanetwork.com/ama/content_public/journal/neur/938841/noi210073supp1_prod_1641404428.54093.pdf?Expires=1697337457&Signature=OpYtB7qcvcsk8Pt3pGKQIFPCGXJTZpre9j8I2skXdnKgY3IwPM07SuvlMw2-SqNmBvH~gJ2K~QrRy3WegCe9g5WyW7WGPeWCV1CSn~gspufoPDzVn79s9mccBasw5QW0jcLOvzbJztFqSUqpAr1ND~sUzDtcuDdSrs7s9EgOc8rm0Eze-L0O~eFh4Y1Fv8CFZm2XdnmVaR7MUJtYg~c9e8Q7x3yXwO8vw01KbCXYiJtCq~8ZKs0A8RiYqAiLQZ1oz5OU8DV88C9dyNx3gOOwY1i4AGRv6nFEKDhmBPnj7FiEDuEtBiLOSFfl0ppVC7kCy6MJryklZHThnmbIJWbJ8Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+- **Lecanemab (CLARITY-AD study, phase 3)**: 
+  * People aged 50-90 years with MCI and mild-stage dementia due to AD, with amyloid pathology confirmed by PET scans or CSF testing.
+  * 18-month double-blinded, placebo-controlled, intravenous infusion every 2 weeks.
+  * CDR-SB declined by 1.66 and 1.21 points (0.45 difference) in the treated and placebo receivers.
+  * homozygous APOE e4 allele carriers, people with cerebral amyloid angiography, and people taking anticoagulant drugs. 
+- **Denanemab (TRAILBLAZER-ALZ 2 study, phase 3, global trial)**: 
   * MCI and mild-stage dementia due to AD, with amyloid and tau pathology confirmed by PET scans, people aged 85 years and above were excluded.
   * 18-month double-blinded, placebo-controlled, intravenous infusion every 4 weeks.
   * CDR-SB declined by 1.72 and 2.42 points (0.7 difference) in the treated and placebo receivers; 1/4-1/2 year longer stable status; 18% more people with Donanemab stayed stable on CDR-SB than with placebo at one year.
@@ -84,7 +88,8 @@ d-article p, d-article ul, d-article ol, d-article blockquote {
 <br>
 
 ### **Remaining questions**
-1. Will future maintenance doses be needed?<br>
+1. Will future maintenance doses be needed?
+2. What are the long-term effects?<br>
 <br>
 
 

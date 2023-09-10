@@ -144,13 +144,16 @@ d-article p, d-article ul, d-article ol, d-article blockquote {
 
 ### **Challenges to consider in cost-effectiveness analyses**
 - Methodological challenges
+  * Extrapolation from RCT results
+  * Assumptions of treatment in populations not represented in the clinical trials and treatment adherence
+  * Limited data on factors that may influence physician prescribing behavior
   * Account for benefits/harm in terms of comorbidities
-  * Assumptions of off-label usage?? and treatment adherence
-  * Reply on published data which may be subject to biases
+  * Rely on published data which may be subject to biases
   * Quantify non-medical costs, e.g., informal care costs
+  
 - Other considerations
   * Rapid changes in the field, biomarkers, treatments<br>
-  * how to determine willingness to pay and cost-effectiveness threshold?<br>
+  * How to determine willingness to pay and cost-effectiveness threshold?<br>
 <br>
 
 
