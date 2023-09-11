@@ -1,0 +1,112 @@
+---
+title: "Cerebral small vessel disease and cognitive aging"
+author:
+  - name: Bertil Gustav
+date: 2023-09-11
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{css, echo = FALSE}
+body {
+position: relative;
+left: -350px;
+width: 1800px
+}
+
+h1 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+
+h3 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+d-article h3 {
+    margin-top: 0.3rem;
+    margin-bottom: 0em;
+}
+
+ul {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+p {
+text-indent: 0;
+padding: -1;
+border: 0px;
+width: 1200px;
+margin-top: 1rem;
+}
+
+d-article li {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+d-article p, d-article ul, d-article ol, d-article blockquote {
+    margin-top: 1;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+}
+```
+
+
+
+### **Terminology**
+- **Cerebral small vessel disease (CSVD):** a broad term describing heterogeneous conditions, such as hypertensive vasculopathy and cerebral amyloid angiopathy (CAA), affecting blood vessels with diameters ranging 50-500 \(\mu\)m.<br>
+<br>
+
+### **Consequences of CSVD**
+- **Cognitive impairment and possible mechanisms:**
+  * CBF&darr;
+  * Blood brain function (BBB) integrity damage (low evidence level), leaked substances that may damage brain parenchyma are unknown, e.g., frbrinogen leakage &rarr; activation of microglia, blockage of oligodendrocyte replacement
+  * Vasoreactivity, may lead to chronic or intermittent hypoperfusion
+    * Abnormal diffusion and perfusion patterns
+    * White matter hyperintensity (WMH)
+  * Oligodendrocyte precurser cell progression, inhibited by endothelial dysfunction
+  * Symmetric parkinsonism<br>
+<br>
+
+### **Magnetic resonance imaging (MRI) markers of CSVD:**
+  * WMH, most clearly associated with dementia
+  * Recent small subcortical infarcts, lacunae of vascular origin, and microbleeds (most specific and clinically available markers at present)
+  * BBB dysfunction measures: dynamic contrast-enhanced MRI, cerebral spinal fluid/serum albumin ratio<br>
+<br>
+  
+### **Challenges of determing implications of CSVD**
+- Making premortem diagnosis for vascular cognitive impairment and dementia (VCID) associated with CSVD
+  * Lack of clear neuropathological consensus criteria
+  * Scarcity of sensitive and specific in-vivo biomarkers
+  * Lack of distinct clinical syndromes
+  * More challenging in the presence of neurodegenerative diseases, e.g., 80%-100% people with amyloid plaques have CAA<br>
+<br>
+
+### **Management**
+- Antihyperyensive treatment-WMH&darr;
+- Antiplatelet therapy-concerns with bleeding
+- Statin-silent infarcts&darr; and WMH&darr;
+- Diabetes control
+- Cholinersterase inhibitors-modest benefit and undesirable side effects<br>
+<br>
+
+**Reference:**<br>
+Bos D, Wolters FJ, Darweesh SKL, Vernooij MW, de Wolf F, Ikram MA, Hofman A. Cerebral small vessel disease and the risk of dementia: A systematic review and meta-analysis of population-based evidence. Alzheimers Dement. 2018 Nov;14(11):1482-1492.
+Elahi FM, Wang MM, Meschia JF. Cerebral Small Vessel Disease-Related Dementia: More Questions Than Answers. Stroke. 2023 Mar;54(3):648-660. 

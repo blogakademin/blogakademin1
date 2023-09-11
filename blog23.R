@@ -25,6 +25,8 @@ create_post("Physical activity and cognitive aging")
 create_post("Diet and cognitive aging")
 create_post("Body mass index and cognitive aging")
 create_post("Blood cholesterol and cognitive aging")
+create_post("Cerebral small vessel disease and cognitive aging")
+
 
 
 create_article(file="cog_age")
