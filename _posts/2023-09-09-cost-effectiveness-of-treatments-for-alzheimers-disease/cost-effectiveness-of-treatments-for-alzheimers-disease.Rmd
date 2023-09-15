@@ -131,7 +131,7 @@ d-article p, d-article ul, d-article ol, d-article blockquote {
 - Microsimulation: need to define the population and rules
   * Disease stage and stage-specific health care cost, additional societal cost, utility (quality of life associated with different health states or interventions), mortality
   * Time scale and unit
-  * Transition probability of outcoems and adverse event, their hazard ratios
+  * Transition probability of outcomes and adverse event, their hazard ratios
   * Effect-specific QALYs: e.g., 0.8 gains in QALYs per 20% treatment effects??
   
 - Output
