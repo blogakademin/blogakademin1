@@ -1,7 +1,5 @@
 ---
 title: "Some heart-warming lyrics"
-description: |
-  In one form or another, it seems that we all want our voices to be heard.
 author:
   - name: Bertil Gustav
     url: {}
