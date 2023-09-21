@@ -35,11 +35,13 @@ navbar:
        - text: "Guidelines"
          href: guid2.html
 
-    - text: "Literature"
+    - text: "Literature and songs"
       menu:
        - text: "Something warm"
          href: warm.html
        - text: "Something dark"
+         href: dark.html
+       - text: "Songs"
          href: dark.html
 
 output: distill::distill_article

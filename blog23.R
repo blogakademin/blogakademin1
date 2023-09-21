@@ -30,6 +30,7 @@ create_post("Cerebral small vessel disease and cognitive aging")
 
 
 create_article(file="cog_age")
+create_post("Population aging and dementia burden globally and in Sweden")
 create_post("Treatments for Alzheimer's disease")
 create_post("Cost-effectiveness of treatments for Alzheimer's disease")
 
