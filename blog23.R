@@ -43,3 +43,20 @@ create_article(file="hcs")
 create_post("The Swedish health care system")
 create_post("Burdens of caregivers")
 
+
+create_article(file="warm")
+create_post("The Travelling Cat Chronicles")
+create_post("The gift")
+create_post("Original writing-street book vendor")
+
+create_article(file="dark")
+create_post("")
+create_post("")
+
+create_article(file="songs")
+create_post("Some heart-warming lyrics")
+
+
+
+
+

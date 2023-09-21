@@ -1,0 +1,18 @@
+---
+title: "Some heart-warming lyrics"
+description: |
+  In one form or another, it seems that we all want our voices to be heard.
+author:
+  - name: Bertil Gustav
+    url: {}
+date: 2023-09-21
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+"I love the world a little more because people like you live
+I have high hopes for a world where people like you live"
+僕が死のうと思ったのは (中島美嘉)
+
+

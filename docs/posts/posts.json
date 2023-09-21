@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2023-09-21-original-writing-street-book-vendor/",
+    "title": "Original writing-street book vendor",
+    "description": "Original story.",
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-21",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-21T21:54:49+02:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2023-09-21-population-aging-and-dementia-burden-globally-and-in-sweden/",
     "title": "Population aging and dementia burden globally and in Sweden",
     "description": {},
@@ -13,7 +30,24 @@
     "categories": [],
     "contents": "\r\n\r\n\r\nlife expectancyPrevalence and DALY\r\n\r\n\r\n\r\n\r\n\r\nSEV of metabolic factorsSEV of behavioral factorsReference:\r\nGBD Results tool: Use the following to cite data included in this download: Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2019 (GBD 2019) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2020. Available from https://vizhub.healthdata.org/gbd-results/.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-09-21T20:57:51+02:00",
+    "last_modified": "2023-09-21T22:20:48+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-09-21-some-heart-warming-lyrics/",
+    "title": "Some heart-warming lyrics",
+    "description": "In one form or another, it seems that we all want our voices to be heard.",
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-09-21",
+    "categories": [],
+    "contents": "\r\n“I love the world a little more because people like you live\r\nI have high hopes for a world where people like you live”\r\n僕が死のうと思ったのは (中島美嘉)\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-09-21T21:59:33+02:00",
     "input_file": {}
   },
   {

@@ -5,6 +5,7 @@ listing:
     - 2023-09-09-treatments-for-alzheimers-disease
     - 2023-09-09-cost-effectiveness-of-treatments-for-alzheimers-disease
     - 2023-09-11-cerebral-small-vessel-disease-and-cognitive-aging
+    - 2023-09-21-population-aging-and-dementia-burden-globally-and-in-sweden
 output: distill::distill_article
 ---
 
