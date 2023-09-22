@@ -90,6 +90,11 @@ d-article p, d-article ul, d-article ol, d-article blockquote {
 
 ![SEV of behavioral factors](sev_beh.png)
 
+![Trends in incidences of CVDs](inc_cvd.png)
+
+
+![Trends in prevalences of CVDs](prev_cvd.png)
+
 
 **Reference:**<br>
 GBD Results tool: Use the following to cite data included in this download: Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2019 (GBD 2019) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2020. Available from https://vizhub.healthdata.org/gbd-results/.
