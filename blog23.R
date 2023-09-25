@@ -26,13 +26,14 @@ create_post("Diet and cognitive aging")
 create_post("Body mass index and cognitive aging")
 create_post("Blood cholesterol and cognitive aging")
 create_post("Cerebral small vessel disease and cognitive aging")
-
+create_post("Orthostatic hypotension can be anything")
 
 
 create_article(file="cog_age")
 create_post("Population aging and dementia burden globally and in Sweden")
 create_post("Treatments for Alzheimer's disease")
 create_post("Cost-effectiveness of treatments for Alzheimer's disease")
+create_post("Consequences of dementia")
 
 
 create_article(file="he")

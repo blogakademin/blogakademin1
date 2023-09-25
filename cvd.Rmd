@@ -10,6 +10,8 @@ listing:
     - 2023-09-09-diet-and-cognitive-aging 
     - 2023-09-09-body-mass-index-and-cognitive-aging           
     - 2023-09-09-blood-cholesterol-and-cognitive-aging
+    - 2023-09-11-cerebral-small-vessel-disease-and-cognitive-aging
+    - 2023-09-25-orthostatic-hypotension-can-be-anything
         
 output: distill::distill_article
 ---
