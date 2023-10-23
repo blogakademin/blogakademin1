@@ -58,6 +58,8 @@ create_article(file="songs")
 create_post("Some heart-warming lyrics")
 
 
+create_article(file="epi")
+create_post("Propensity score methods in epidemiology")
 
 
 

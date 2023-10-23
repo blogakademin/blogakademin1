@@ -1,0 +1,114 @@
+---
+title: "Propensity score methods in epidemiology"
+description: |
+  Concepts and applications of propensity score methods.
+author:
+  - name: Bertil Gustav
+    url: {}
+date: 2023-10-23
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+**Reference:**<br>
+
+Chang, T-H, Stuart, EA. Propensity score methods for observational studies with clustered data: A review. Statistics in Medicine. 2022; 41(18): 3612-3626. doi:10.1002/sim.9437 <br>
+
+Wang, J. To use or not to use propensity score matching? Pharmaceutical Statistics. 2021; 20: 15–24. https://doi.org/10.1002/pst.2051 <br>
+
+Peter C. Austin, Amy Ying Xin Yu, Manav V. Vyas, Moira K. Kapral. Applying Propensity Score Methods in Clinical Research in Neurology. 
+Neurology Nov 2021, 97 (18) 856-863; DOI: 10.1212/WNL.0000000000012777 <br>
+
+Zhao QY, Luo JC, Su Y, Zhang YJ, Tu GW, Luo Z. Propensity score matching with R: conventional methods and new features. Ann Transl Med. 2021 May;9(9):812. doi: 10.21037/atm-20-3998 <br>
+
+Thomas L, Li F, Pencina M. Using Propensity Score Methods to Create Target Populations in Observational Clinical Research. JAMA. 2020;323(5):466–467. doi:10.1001/jama.2019.21558 <br>
+
+Kane, Liam T. BS; Fang, Taolin MD, PhD; Galetta, Matthew S. BA; Goyal, Dhruv K.C. BA; Nicholson, Kristen J. PhD; Kepler, Christopher K. MD, MBA; Vaccaro, Alexander R. MD, PhD, MBA; Schroeder, Gregory D. MD. Propensity Score Matching: A Statistical Method. Clinical Spine Surgery 33(3):p 120-122, April 2020. | DOI: 10.1097/BSD.0000000000000932 <br>
+
+Propensity Score Analysis: Recent Debate and Discussion
+Shenyang Guo, Mark Fraser, and Qi Chen. Journal of the Society for Social Work and Research 2020 11:3, 463-482 <br>
+
+Understanding Propensity Score Analyses Lalani, Nafisha et al (2020). International Journal of Radiation Oncology, Biology, Physics, Volume 107, Issue 3, 404 - 407 <br>
+
+Harris, Heather and Horst, S. Jeanne (2019) "A Brief Guide to Decisions at Each Step of the Propensity Score Matching Process," Practical Assessment, Research, and Evaluation: Vol. 21, Article 4. DOI: https://doi.org/10.7275/yq7r-4820 <br>
+
+King, G., & Nielsen, R. (2019). Why Propensity Scores Should Not Be Used for Matching. Political Analysis, 27(4), 435-454. doi:10.1017/pan.2019.11 <br>
+
+Zhang Z, Kim HJ, Lonjon G, Zhu Y; written on behalf of AME Big-Data Clinical Trial Collaborative Group. Balance diagnostics after propensity score matching. Ann Transl Med. 2019 Jan;7(1):16. doi: 10.21037/atm.2018.12.10 <br>
+
+Olmos, Antonio and Govindasamy, Priyalatha (2019) "A Practical Guide for Using Propensity Score Weighting in R," Practical Assessment, Research, and Evaluation: Vol. 20, Article 13. https://doi.org/10.7275/jjtm-r398 <br>
+
+Fan Li, Kari Lock Morgan & Alan M. Zaslavsky (2018) Balancing Covariates via Propensity Score Weighting, Journal of the American Statistical Association, 113:521, 390-400, DOI: 10.1080/01621459.2016.1260466 <br>
+
+Umberto Benedetto, Stuart J Head, Gianni D Angelini, Eugene H Blackstone, Statistical primer: propensity score matching and its alternatives, European Journal of Cardio-Thoracic Surgery, Volume 53, Issue 6, June 2018, Pages 1112–1117, https://doi.org/10.1093/ejcts/ezy167 <br>
+
+Staffa, Steven J. MS; Zurakowski, David MS, PhD. Five Steps to Successfully Implement and Evaluate Propensity Score Matching in Clinical Research Studies. Anesthesia & Analgesia 127(4):p 1066-1073, October 2018. | DOI: 10.1213/ANE.0000000000002787 <br>
+
+Elze M, Gregson J, Baber U, et al. Comparison of Propensity Score Methods and Covariate Adjustment. J Am Coll Cardiol. 2017 Jan, 69 (3) 345–357. https://doi.org/10.1016/j.jacc.2016.10.060 <br>
+
+Jaehoon Lee, Todd D. Little. A practical guide to propensity score analysis for applied clinical research, Behaviour Research and Therapy. https://doi.org/10.1016/j.brat.2017.01.005 <br>
+
+Abadie, A. and Imbens, G.W. (2016), Matching on the Estimated Propensity Score. Econometrica, 84: 781-807. https://doi.org/10.3982/ECTA11293 <br>
+
+Haukoos JS, Lewis RJ. The Propensity Score. JAMA. 2015;314(15):1637–1638. doi:10.1001/jama.2015.13480 <br>
+
+Ridgeway, Greg, Kovalchik, Stephanie Ann, Griffin, Beth Ann and Kabeto, Mohammed U.. "Propensity Score Analysis with Survey Weighted Data" Journal of Causal Inference, vol. 3, no. 2, 2015, pp. 237-249. https://doi.org/10.1515/jci-2014-0039 <br>
+
+Austin, P.C. (2014), A comparison of 12 algorithms for matching on the propensity score. Statist. Med., 33: 1057-1069. https://doi.org/10.1002/sim.6004 <br>
+
+Garrido, M.M., Kelley, A.S., Paris, J., Roza, K., Meier, D.E., Morrison, R.S. and Aldridge, M.D. (2014), Methods for Constructing and Assessing Propensity Scores. Health Serv Res, 49: 1701-1720. https://doi.org/10.1111/1475-6773.12182 <br>
+
+Vansteelandt, S. and Daniel, R.M. (2014), On regression adjustment for the propensity score, Statistics in Medicine, 33, pages 4053–4072, doi: 10.1002/sim.6207 <br>
+
+Austin, P.C. (2014), The use of propensity score methods with survival or time-to-event outcomes: reporting measures of effect similar to those used in randomized experiments. Statist. Med., 33: 1242-1258. https://doi.org/10.1002/sim.5984 <br>
+
+Kosuke Imai, Marc Ratkovic, Covariate Balancing Propensity Score, Journal of the Royal Statistical Society Series B: Statistical Methodology, Volume 76, Issue 1, January 2014, Pages 243–263, https://doi.org/10.1111/rssb.12027 <br>
+
+Li, F., Zaslavsky, A.M. and Landrum, M.B. (2013), Propensity score weighting with multilevel data. Statist. Med., 32: 3373-3387. https://doi.org/10.1002/sim.5786 <br>
+
+Austin, P.C. (2013), The performance of different propensity score methods for estimating marginal hazard ratios. Statist. Med., 32: 2837-2849. https://doi.org/10.1002/sim.5705 <br>
+
+McCaffrey, D.F., Griffin, B.A., Almirall, D., Slaughter, M.E., Ramchand, R. and Burgette, L.F. (2013), A tutorial on propensity score estimation for multiple treatments using generalized boosted models. Statist. Med., 32: 3388-3414. https://doi.org/10.1002/sim.5753 <br>
+
+Westreich, D., Cole, S.R., Funk, M.J., Brookhart, M.A. and Stürmer, T. (2011), The role of the c-statistic in variable selection for propensity score models. Pharmacoepidem. Drug Safe., 20: 317-320. https://doi.org/10.1002/pds.2074 <br>
+
+Peter C. Austin peter.austin@ices.on.ca (2011) An Introduction to Propensity Score Methods for Reducing the Effects of Confounding in Observational Studies, Multivariate Behavioral Research, 46:3, 399-424, DOI: 10.1080/00273171.2011.568786 <br>
+
+Georg Heinze, Peter Jüni, An overview of the objectives of and the approaches to propensity score analyses, European Heart Journal, Volume 32, Issue 14, July 2011, Pages 1704–1708, https://doi.org/10.1093/eurheartj/ehr031 <br>
+
+Zhehui Luo, Gardiner JC, Bradley CJ. Applying Propensity Score Methods in Medical Research: Pitfalls and Prospects. Medical Care Research and Review. 2010;67(5):528-554. doi:10.1177/1077558710361486 <br>
+
+Lee, B.K., Lessler, J. and Stuart, E.A. (2010), Improving propensity score weighting using machine learning. Statist. Med., 29: 337-346. https://doi.org/10.1002/sim.3782 <br>
+
+Rubin, Donald B.Propensity Score Methods. American Journal of Ophthalmology, Volume 149, Issue 1, 7 - 9 <br>
+
+Austin, P.C. (2008), Goodness-of-fit diagnostics for the propensity score model when estimating treatment effects using covariate adjustment with the propensity score. Pharmacoepidem. Drug Safe., 17: 1202-1217. https://doi.org/10.1002/pds.1673 <br>
+
+Austin, P.C. (2008), A critical appraisal of propensity-score matching in the medical literature between 1996 and 2003. Statist. Med., 27: 2037-2049. https://doi.org/10.1002/sim.3150 <br>
+
+Ben B. Hansen, The prognostic analogue of the propensity score, Biometrika, Volume 95, Issue 2, June 2008, Pages 481–488, https://doi.org/10.1093/biomet/asn004 <br>
+
+Austin, P.C., Grootendorst, P. and Anderson, G.M. (2007), A comparison of the ability of different propensity score models to balance measured variables between treated and untreated subjects: a Monte Carlo study. Statist. Med., 26: 734-753. https://doi.org/10.1002/sim.2580 <br>
+
+Caliendo, M. and Kopeinig, S. (2008), SOME PRACTICAL GUIDANCE FOR THE IMPLEMENTATION OF PROPENSITY SCORE MATCHING. Journal of Economic Surveys, 22: 31-72. https://doi.org/10.1111/j.1467-6419.2007.00527.x <br>
+
+Austin, P.C. (2007), The performance of different propensity score methods for estimating marginal odds ratios. Statist. Med., 26: 3078-3094. https://doi.org/10.1002/sim.2781 <br>
+
+Peter C. Austin, The performance of different propensity-score methods for estimating relative risks, Journal of Clinical Epidemiology. https://doi.org/10.1016/j.jclinepi.2007.07.011 <br>
+
+Glynn, R.J., Schneeweiss, S. and Stürmer, T. (2006), Indications for Propensity Scores and Review of their Use in Pharmacoepidemiology. Basic & Clinical Pharmacology & Toxicology, 98: 253-259. https://doi.org/10.1111/j.1742-7843.2006.pto_293.x <br>
+
+Baiju R. Shah, Andreas Laupacis, Janet E. Hux, Peter C. Austin. Propensity score methods gave similar results to traditional regression modeling in observational studies: a systematic review. Journal of Clinical Epidemiology. https://doi.org/10.1016/j.jclinepi.2004.10.016 <br>
+
+Lunceford, J.K. and Davidian, M. (2004), Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study. Statist. Med., 23: 2937-2960. https://doi.org/10.1002/sim.1903 <br>
+
+Lu, B. (2005), Propensity Score Matching with Time-Dependent Covariates. Biometrics, 61: 721-728. https://doi.org/10.1111/j.1541-0420.2005.00356.x <br>
+
+Donald B. Rubin & Neal Thomas neaLthomas@attglobal.net (2000) Combining Propensity Score Matching with Additional Adjustments for Prognostic Covariates, Journal of the American Statistical Association, 95:450, 573-585, DOI: 10.1080/01621459.2000.10474233 <br>
+
+D'Agostino, R.B., Jr. (1998), Propensity score methods for bias reduction in the comparison of a treatment to a non-randomized control group. Statist. Med., 17: 2265-2281. https://doi.org/10.1002/(SICI)1097-0258(19981015)17:19<2265::AID-SIM918>3.0.CO;2-B <br>
+
+PAUL R. ROSENBAUM, DONALD B. RUBIN, The central role of the propensity score in observational studies for causal effects, Biometrika, Volume 70, Issue 1, April 1983, Pages 41–55, https://doi.org/10.1093/biomet/70.1.41
+
