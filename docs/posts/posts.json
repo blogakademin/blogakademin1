@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2023-09-09-diabetes-and-cognitive-aging/",
+    "title": "Diabetes and cognitive aging",
+    "description": "Notes of evidence for diabetes and cognitive aging.",
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-10-29",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nReference:\r\n1. Moran, C., Callisaya, M.L., Srikanth, V. et al. Diabetes Therapies for Dementia. Curr Neurol Neurosci Rep 19, 58 (2019). https://doi.org/10.1007/s11910-019-0973-4 \r\n2. Biessels, G.J., Despa, F. Cognitive decline and dementia in diabetes mellitus: mechanisms and clinical implications. Nat Rev Endocrinol 14, 591–604 (2018). https://doi.org/10.1038/s41574-018-0048-7 \r\n3. Pelle MC, Zaffina I, Giofrè F, Pujia R, Arturi F. Potential Role of Glucagon-like Peptide-1 Receptor Agonists in the Treatment of Cognitive Decline and Dementia in Diabetes Mellitus. International Journal of Molecular Sciences. 2023; 24(14):11301. https://doi.org/10.3390/ijms241411301 \r\n4. Boccardi V, Murasecco I, Mecocci P. Diabetes drugs in the fight against Alzheimer’s disease. Ageing Res Rev. 2019 Sep;54:100936. doi:10.1016/j.arr.2019.100936. \r\n4. Bae CS, Song J. The Role of Glucagon-Like Peptide 1 (GLP1) in Type 3 Diabetes: GLP-1 Controls Insulin Resistance, Neuroinflammation and Neurogenesis in the Brain. International Journal of Molecular Sciences. 2017; 18(11):2493. https://doi.org/10.3390/ijms18112493 \r\n5. Srikanth V, Sinclair AJ, Hill-Briggs F, Moran C, Biessels GJ. Type 2 diabetes and cognitive dysfunction-towards effective management of both comorbidities. Lancet Diabetes Endocrinol. 2020 Jun;8(6):535-545. doi: 10.1016/S2213-8587(20)30118-2.\r\n6. Fink HA, Jutkowitz E, McCarten JR, Hemmy LS, Butler M, Davila H, Ratner E, Calvert C, Barclay TR, Brasure M, Nelson VA, Kane RL. Pharmacologic Interventions to Prevent Cognitive Decline, Mild Cognitive Impairment, and Clinical Alzheimer-Type Dementia: A Systematic Review. Ann Intern Med. 2018 Jan 2;168(1):39-51. doi: 10.7326/M17-1529.\r\n7. Arnold, S., Arvanitakis, Z., Macauley-Rambach, S. et al. Brain insulin resistance in type 2 diabetes and Alzheimer disease: concepts and conundrums. Nat Rev Neurol 14, 168–181 (2018). https://doi.org/10.1038/nrneurol.2017.185 \r\n8. Ojakäär T, Koychev I. Secondary Prevention of Dementia: Combining Risk Factors and Scalable Screening Technology. Front Neurol. 2021 Nov 15;12:772836.doi: 10.3389/fneur.2021.772836.\r\n9. Borshchev YY, Uspensky YP, Galagudza MM. Pathogenetic pathways of cognitive dysfunction and dementia in metabolic syndrome. Life Sci. 2019 Nov 15;237:116932. doi: 10.1016/j.lfs.2019.116932.\r\n10. van Duinkerken E, Ryan CM. Diabetes mellitus in the young and the old: Effects on cognitive functioning across the life span. Neurobiol Dis. 2020 Feb;134:104608. doi: 10.1016/j.nbd.2019.104608.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-10-29T09:44:57+01:00",
+    "input_file": "diabetes-and-cognitive-aging.knit.md"
+  },
+  {
     "path": "posts/2023-10-23-propensity-score-methods-in-epidemiology/",
     "title": "Propensity score methods in epidemiology",
     "description": "Concepts and applications of propensity score methods.",
