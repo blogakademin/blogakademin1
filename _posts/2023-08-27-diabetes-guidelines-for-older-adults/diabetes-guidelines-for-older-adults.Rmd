@@ -68,6 +68,6 @@ width: 1200px;
 
 **Reference:**<br>
 1. ElSayed NA, Aleppo G, Aroda VR, et al. 13. Older Adults: Standards of Care in Diabetes-2023. Diabetes Care. 2023;46(Suppl 1):S216-S229. doi: 10.2337/dc23-S013.<br>
-2. Yeoh EK, Wong MCS, Wong ELY, et al. Benefits and limitations of implementing Chronic Care Model (CCM) in primary care programs: A systematic review. Int J Cardiol. 2018 May 1;258:279-288. doi: 10.1016/j.ijcard.2017.11.057.
-
+2. Yeoh EK, Wong MCS, Wong ELY, et al. Benefits and limitations of implementing Chronic Care Model (CCM) in primary care programs: A systematic review. Int J Cardiol. 2018 May 1;258:279-288. doi: 10.1016/j.ijcard.2017.11.057.<br>
+3. https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/nationella-riktlinjer/2018-10-25.pdf
 

@@ -249,9 +249,9 @@
     ],
     "date": "2023-08-27",
     "categories": [],
-    "contents": "\r\n\r\n\r\nImportant terms\r\nChronic care model (CCM): a model designed for ambulatory care for people with chronic conditions, mainly hypertension, diabetes, cardiovascular diseases, chronic obstructive pulmonary diseases. CCM has 6 core components: delivery system, self-management support, decision support, clinical information system, community resources for patients, health systems.\r\nTelehealth:\r\nHeader 1\r\nHeader 2\r\nCell 1,1\r\nCell 1,2\r\nCell 2,1\r\nCell 2,2\r\nReference:\r\n1. ElSayed NA, Aleppo G, Aroda VR, et al. 13. Older Adults: Standards of Care in Diabetes-2023. Diabetes Care. 2023;46(Suppl 1):S216-S229. doi: 10.2337/dc23-S013.\r\n2. Yeoh EK, Wong MCS, Wong ELY, et al. Benefits and limitations of implementing Chronic Care Model (CCM) in primary care programs: A systematic review. Int J Cardiol. 2018 May 1;258:279-288. doi: 10.1016/j.ijcard.2017.11.057.\r\n\r\n\r\n\r\n",
+    "contents": "\r\n\r\n\r\nImportant terms\r\nChronic care model (CCM): a model designed for ambulatory care for people with chronic conditions, mainly hypertension, diabetes, cardiovascular diseases, chronic obstructive pulmonary diseases. CCM has 6 core components: delivery system, self-management support, decision support, clinical information system, community resources for patients, health systems.\r\nTelehealth:\r\nHeader 1\r\nHeader 2\r\nCell 1,1\r\nCell 1,2\r\nCell 2,1\r\nCell 2,2\r\nReference:\r\n1. ElSayed NA, Aleppo G, Aroda VR, et al. 13. Older Adults: Standards of Care in Diabetes-2023. Diabetes Care. 2023;46(Suppl 1):S216-S229. doi: 10.2337/dc23-S013.\r\n2. Yeoh EK, Wong MCS, Wong ELY, et al. Benefits and limitations of implementing Chronic Care Model (CCM) in primary care programs: A systematic review. Int J Cardiol. 2018 May 1;258:279-288. doi: 10.1016/j.ijcard.2017.11.057.\r\n3. https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/nationella-riktlinjer/2018-10-25.pdf\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-09-10T21:47:47+02:00",
-    "input_file": {}
+    "last_modified": "2023-10-29T09:26:56+01:00",
+    "input_file": "diabetes-guidelines-for-older-adults.knit.md"
   }
 ]
