@@ -1,0 +1,59 @@
+---
+title: "Comments by EMA and EMRN on real world evidence (2023)"
+author:
+  - name: Bertil Gustav
+date: 2023-11-13
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{css, echo = FALSE}
+body {
+position: relative;
+left: -350px;
+width: 1800px
+}
+
+h1 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+
+h3 {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+ul {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+
+p {
+text-indent: 0;
+margin: 0px;
+padding: -1;
+border: 0px;
+width: 1200px;
+}
+```
+
+
+
+
+
+**Reference:**<br>
+1. [Real-world evidence framework to support EU regulatory decision-making](https://www.ema.europa.eu/en/documents/report/real-world-evidence-framework-support-eu-regulatory-decision-making-report-experience-gained_en.pdf){target="_blank"}<br>
+

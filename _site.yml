@@ -35,6 +35,13 @@ navbar:
        - text: "Guidelines"
          href: guid2.html
 
+    - text: "Legislations and regulations"
+      menu:
+       - text: "Data protection policies"
+         href: data_protect.html
+       - text: "Regulatory agencies' comments"
+         href: reg_com.html
+         
     - text: "Literature and songs"
       menu:
        - text: "Something warm"

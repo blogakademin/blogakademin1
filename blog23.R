@@ -17,7 +17,6 @@ create_post("Cardiovascular disease prevention guidelines for older adults")
 
 
 create_article(file="cvd")
-create_post("Vascular aging")
 create_post("Hypertension and cognitive aging")
 create_post("Diabetes and cognitive aging")
 create_post("Smoke and cognitive aging")
@@ -26,7 +25,6 @@ create_post("Diet and cognitive aging")
 create_post("Body mass index and cognitive aging")
 create_post("Blood cholesterol and cognitive aging")
 create_post("Cerebral small vessel disease and cognitive aging")
-create_post("Orthostatic hypotension can be anything")
 
 
 create_article(file="cog_age")
@@ -35,6 +33,11 @@ create_post("Treatments for Alzheimer's disease")
 create_post("Cost-effectiveness of treatments for Alzheimer's disease")
 create_post("Consequences of dementia")
 
+create_article(file = "data_protect")
+create_post("")
+
+create_article(file = "reg_com")
+create_post("Comments by EMA and EMRN on real world evidence (2023)")
 
 create_article(file="he")
 create_post("Health economics-introduction")
@@ -60,6 +63,7 @@ create_post("Some heart-warming lyrics")
 
 create_article(file="epi")
 create_post("Propensity score methods in epidemiology")
+create_post("Target trial emulation")
 
 
 

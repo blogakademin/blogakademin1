@@ -2,7 +2,6 @@
 title: "How cardiovascular health factors can impact aging"
 listing: 
   posts:
-    - 2023-09-09-vascular-aging
     - 2023-09-09-hypertension-and-cognitive-aging
     - 2023-09-09-diabetes-and-cognitive-aging 
     - 2023-09-09-smoke-and-cognitive-aging    
@@ -11,7 +10,6 @@ listing:
     - 2023-09-09-body-mass-index-and-cognitive-aging           
     - 2023-09-09-blood-cholesterol-and-cognitive-aging
     - 2023-09-11-cerebral-small-vessel-disease-and-cognitive-aging
-    - 2023-09-25-orthostatic-hypotension-can-be-anything
         
 output: distill::distill_article
 ---

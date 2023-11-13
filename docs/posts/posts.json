@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2023-11-13-comments-by-ema-and-emrn-on-real-world-evidence-2023/",
+    "title": "Comments by EMA and EMRN on real world evidence (2023)",
+    "description": {},
+    "author": [
+      {
+        "name": "Bertil Gustav",
+        "url": {}
+      }
+    ],
+    "date": "2023-11-13",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nReference:\r\n1. Real-world evidence framework to support EU regulatory decision-making\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-11-13T22:32:20+01:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2023-09-09-diabetes-and-cognitive-aging/",
     "title": "Diabetes and cognitive aging",
     "description": "Notes of evidence for diabetes and cognitive aging.",
@@ -14,7 +31,7 @@
     "contents": "\r\n\r\n\r\nReference:\r\n1. Moran, C., Callisaya, M.L., Srikanth, V. et al. Diabetes Therapies for Dementia. Curr Neurol Neurosci Rep 19, 58 (2019). https://doi.org/10.1007/s11910-019-0973-4 \r\n2. Biessels, G.J., Despa, F. Cognitive decline and dementia in diabetes mellitus: mechanisms and clinical implications. Nat Rev Endocrinol 14, 591–604 (2018). https://doi.org/10.1038/s41574-018-0048-7 \r\n3. Pelle MC, Zaffina I, Giofrè F, Pujia R, Arturi F. Potential Role of Glucagon-like Peptide-1 Receptor Agonists in the Treatment of Cognitive Decline and Dementia in Diabetes Mellitus. International Journal of Molecular Sciences. 2023; 24(14):11301. https://doi.org/10.3390/ijms241411301 \r\n4. Boccardi V, Murasecco I, Mecocci P. Diabetes drugs in the fight against Alzheimer’s disease. Ageing Res Rev. 2019 Sep;54:100936. doi:10.1016/j.arr.2019.100936. \r\n4. Bae CS, Song J. The Role of Glucagon-Like Peptide 1 (GLP1) in Type 3 Diabetes: GLP-1 Controls Insulin Resistance, Neuroinflammation and Neurogenesis in the Brain. International Journal of Molecular Sciences. 2017; 18(11):2493. https://doi.org/10.3390/ijms18112493 \r\n5. Srikanth V, Sinclair AJ, Hill-Briggs F, Moran C, Biessels GJ. Type 2 diabetes and cognitive dysfunction-towards effective management of both comorbidities. Lancet Diabetes Endocrinol. 2020 Jun;8(6):535-545. doi: 10.1016/S2213-8587(20)30118-2.\r\n6. Fink HA, Jutkowitz E, McCarten JR, Hemmy LS, Butler M, Davila H, Ratner E, Calvert C, Barclay TR, Brasure M, Nelson VA, Kane RL. Pharmacologic Interventions to Prevent Cognitive Decline, Mild Cognitive Impairment, and Clinical Alzheimer-Type Dementia: A Systematic Review. Ann Intern Med. 2018 Jan 2;168(1):39-51. doi: 10.7326/M17-1529.\r\n7. Arnold, S., Arvanitakis, Z., Macauley-Rambach, S. et al. Brain insulin resistance in type 2 diabetes and Alzheimer disease: concepts and conundrums. Nat Rev Neurol 14, 168–181 (2018). https://doi.org/10.1038/nrneurol.2017.185 \r\n8. Ojakäär T, Koychev I. Secondary Prevention of Dementia: Combining Risk Factors and Scalable Screening Technology. Front Neurol. 2021 Nov 15;12:772836.doi: 10.3389/fneur.2021.772836.\r\n9. Borshchev YY, Uspensky YP, Galagudza MM. Pathogenetic pathways of cognitive dysfunction and dementia in metabolic syndrome. Life Sci. 2019 Nov 15;237:116932. doi: 10.1016/j.lfs.2019.116932.\r\n10. van Duinkerken E, Ryan CM. Diabetes mellitus in the young and the old: Effects on cognitive functioning across the life span. Neurobiol Dis. 2020 Feb;134:104608. doi: 10.1016/j.nbd.2019.104608.\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2023-10-29T09:44:57+01:00",
-    "input_file": "diabetes-and-cognitive-aging.knit.md"
+    "input_file": {}
   },
   {
     "path": "posts/2023-10-23-propensity-score-methods-in-epidemiology/",
@@ -48,23 +65,6 @@
     "contents": "\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2023-09-25T08:36:56+02:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2023-09-25-orthostatic-hypotension-can-be-anything/",
-    "title": "Orthostatic hypotension can be anything",
-    "description": "Orthostatic hypotension-it can be anything.",
-    "author": [
-      {
-        "name": "Bertil Gustav",
-        "url": {}
-      }
-    ],
-    "date": "2023-09-25",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2023-09-25T08:37:10+02:00",
     "input_file": {}
   },
   {
@@ -200,7 +200,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\nImportant terms\r\nReference:\r\n1. Den nordiska äldreomsorgen-En jämförande kartläggning av struktur, organisation och innehåll\r\n2. Kvalitet i äldreomsorg ur ett anhörigperspektiv\r\n3. Nära vård i sikte? Utvärdering av omställningen till en god och nära vård: delrapport\r\n4. Stöd till anhöriga-erfarenheter från åtta kommuner 2010-2012\r\n5. Sweden: health system review 2012\r\n6. Vården ur befolkningens perspektiv, 65 år och äldre\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-09-15T10:37:57+02:00",
+    "last_modified": "2023-11-13T22:26:02+01:00",
     "input_file": {}
   },
   {
@@ -218,23 +218,6 @@
     "contents": "\r\n\r\n\r\nImportant terms\r\nSum of boxes of the Clinical Dementia Rating Scale (CDR-SB):\r\nAmyloid-related imaging abnormalities (ARIA):\r\nAducanumab: Trial protocol\r\nLecanemab (CLARITY-AD study, phase 3):\r\nPeople aged 50-90 years with MCI and mild-stage dementia due to AD, with amyloid pathology confirmed by PET scans or CSF testing.\r\n18-month double-blinded, placebo-controlled, intravenous infusion every 2 weeks.\r\nCDR-SB declined by 1.66 and 1.21 points (0.45 difference) in the treated and placebo receivers.\r\nhomozygous APOE e4 allele carriers, people with cerebral amyloid angiography, and people taking anticoagulant drugs.\r\n\r\nDenanemab (TRAILBLAZER-ALZ 2 study, phase 3, global trial):\r\nMCI and mild-stage dementia due to AD, with amyloid and tau pathology confirmed by PET scans, people aged 85 years and above were excluded.\r\n18-month double-blinded, placebo-controlled, intravenous infusion every 4 weeks.\r\nCDR-SB declined by 1.72 and 2.42 points (0.7 difference) in the treated and placebo receivers; 1/4-1/2 year longer stable status; 18% more people with Donanemab stayed stable on CDR-SB than with placebo at one year.\r\nhomozygous APOE e4 allele carriers, people with cerebral amyloid angiography, and people taking anticoagulant drugs. \r\n\r\nRemaining questions\r\nWill future maintenance doses be needed?\r\nWhat are the long-term effects?\r\nAffected stakeholders\r\nPatients and caregivers\r\nPrimary care clinics-early detection of AD\r\nSpecialty dementia clinics-diagnose AD and other types of dementia\r\nEmergency departments and radiologists\r\nReference:\r\nWidera EW, Brangman SA, Chin NA. Ushering in a New Era of Alzheimer Disease Therapy. JAMA. 2023 Aug 8;330(6):503-504.\r\nSchneider LS. Viewpoint: When It Comes to Lecanemab (and Donanemab), How Might We Think about ‘Reasonable and Necessary’? J Prev Alzheimers Dis. 2023;10(3):342-343.\r\nvan Dyck CH, Swanson CJ, Aisen P, Bateman RJ, Chen C, Gee M, Kanekiyo M, Li D, Reyderman L, Cohen S, Froelich L, Katayama S, Sabbagh M, Vellas B, Watson D, Dhadda S, Irizarry M, Kramer LD, Iwatsubo T. Lecanemab in Early Alzheimer’s Disease. N Engl J Med. 2023 Jan 5;388(1):9-21.\r\nSims JR, Zimmer JA, Evans CD, Lu M, Ardayfio P, Sparks J, Wessels AM, Shcherbinin S, Wang H, Monkul Nery ES, Collins EC, Solomon P, Salloway S, Apostolova LG, Hansson O, Ritchie C, Brooks DA, Mintun M, Skovronsky DM; TRAILBLAZER-ALZ 2 Investigators. Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial. JAMA. 2023 Aug 8;330(6):512-527.\r\nCummings J, Apostolova L, Rabinovici GD, Atri A, Aisen P, Greenberg S, Hendrix S, Selkoe D, Weiner M, Petersen RC, Salloway S. Lecanemab: Appropriate Use Recommendations. J Prev Alzheimers Dis. 2023;10(3):362-377.\r\nManly JJ, Deters KD. Donanemab for Alzheimer Disease-Who Benefits and Who Is Harmed? JAMA. 2023 Aug 8;330(6):510-511.\r\nAtwood CS, Perry G. Playing Russian Roulette with Alzheimer’s Disease Patients: Do the Cognitive Benefits of Lecanemab Outweigh the Risk of Edema, Stroke and Encephalitis? J Alzheimers Dis. 2023;92(3):799-801.\r\nThambisetty M, Howard R. Lecanemab and APOE Genotyping in Clinical Practice-Navigating Uncharted Terrain. JAMA Neurol. 2023 May 1;80(5):431-432.\r\nRashad A, Rasool A, Shaheryar M, Sarfraz A, Sarfraz Z, Robles-Velasco K, Cherrez-Ojeda I. Donanemab for Alzheimer’s Disease: A Systematic Review of Clinical Trials. Healthcare (Basel). 2022 Dec 22;11(1):32.\r\nBurke JF, Kerber KA, Langa KM, Albin RL, Kotagal V. Lecanemab: Looking Before We Leap. Neurology. 2023 Jul 21:10.1212/WNL.0000000000207505.\r\nMcDade E, Cummings JL, Dhadda S, Swanson CJ, Reyderman L, Kanekiyo M, Koyama A, Irizarry M, Kramer LD, Bateman RJ. Lecanemab in patients with early Alzheimer’s disease: detailed results on biomarker, cognitive, and clinical effects from the randomized and open-label extension of the phase 2 proof-of-concept study. Alzheimers Res Ther. 2022 Dec 21;14(1):191.\r\nGueorguieva I, Willis BA, Chua L, Chow K, Ernest CS, Shcherbinin S, Ardayfio P, Mullins GR, Sims JR. Donanemab Population Pharmacokinetics, Amyloid Plaque Reduction, and Safety in Participants with Alzheimer’s Disease. Clin Pharmacol Ther. 2023 Jun;113(6):1258-1267.\r\nGueorguieva I, Willis BA, Chua L, Chow K, Ernest CS 2nd, Wang J, Shcherbinin S, Sims JR, Chigutsa E. Donanemab exposure and efficacy relationship using modeling in Alzheimer’s disease. Alzheimers Dement (N Y). 2023 Jun 28;9(2):e12404.\r\nWessels AM, Dennehy EB, Dowsett SA, Dickson SP, Hendrix SB. Meaningful Clinical Changes in Alzheimer Disease Measured With the iADRS and Illustrated Using the Donanemab TRAILBLAZER-ALZ Study Findings. Neurol Clin Pract. 2023 Apr;13(2):e200127.\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2023-09-10T22:21:38+02:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2023-09-09-vascular-aging/",
-    "title": "Vascular aging",
-    "description": {},
-    "author": [
-      {
-        "name": "Bertil Gustav",
-        "url": {}
-      }
-    ],
-    "date": "2023-09-09",
-    "categories": [],
-    "contents": "\r\n\r\n\r\nTerminology\r\nVascular aging:\r\nArtherosclerosis:\r\nArterial stiffness:\r\nConsequences of vascular aging\r\nCardiovascular diseases:\r\nCognitive dysfunction:\r\nSarcopenia:\r\nHow to prevent and decelerate vascular aging\r\nReference:\r\nNilsson PM, Boutouyrie P, Laurent S. Vascular aging: A tale of EVA and ADAM in cardiovascular risk assessment and prevention. Hypertension. 2009 Jul;54(1):3-10.\r\nNilsson PM. Hemodynamic Aging as the Consequence of Structural Changes Associated with Early Vascular Aging (EVA). Aging Dis. 2014 Apr 1;5(2):109-13.\r\nNilsson PM. Early Vascular Aging in Hypertension. Front Cardiovasc Med. 2020 Feb 4;7:6.\r\nNilsson PM. Early vascular aging (EVA): consequences and prevention. Vasc Health Risk Manag. 2008;4(3):547-52.\r\nJeon YK, Shin MJ, Saini SK, Custodero C, Aggarwal M, Anton SD, Leeuwenburgh C, Mankowski RT. Vascular dysfunction as a potential culprit of sarcopenia. ExpGerontol. 2021 Mar;145:111220. doi: 10.1016/j.exger.2020.111220\r\nHe N, Zhang Y, Zhang L, Zhang S, Ye H. Relationship Between Sarcopenia and Cardiovascular Diseases in the Elderly: An Overview. Front Cardiovasc Med. 2021 Dec 9;8:743710. doi: 10.3389/fcvm.2021.743710\r\nBanks NF, Rogers EM, Church DD, Ferrando AA, Jenkins NDM. The contributory role of vascular health in age-related anabolic resistance. J Cachexia Sarcopenia Muscle. 2022 Feb;13(1):114-127. doi: 10.1002/jcsm.12898.\r\nMistriotis P, Andreadis ST. Vascular aging: Molecular mechanisms and potential treatments for vascular rejuvenation. Ageing Res Rev. 2017 Aug;37:94-116. doi: 10.1016/j.arr.2017.05.006.\r\nNaoyuki Hayashi, Chapter 11 - Vascular aging and sarcopenia: Interactions with physiological functions during exercise, Editor(s): Kunihiro Sakuma, Sarcopenia, Elsevier, 2021, Pages 249-265, ISBN 9780128221464, https://doi.org/10.1016/B978-0-12-822146-4.00012-0.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2023-09-15T10:53:04+02:00",
     "input_file": {}
   },
   {
@@ -268,7 +251,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\nImportant terms\r\nChronic care model (CCM): a model designed for ambulatory care for people with chronic conditions, mainly hypertension, diabetes, cardiovascular diseases, chronic obstructive pulmonary diseases. CCM has 6 core components: delivery system, self-management support, decision support, clinical information system, community resources for patients, health systems.\r\nTelehealth:\r\nHeader 1\r\nHeader 2\r\nCell 1,1\r\nCell 1,2\r\nCell 2,1\r\nCell 2,2\r\nReference:\r\n1. ElSayed NA, Aleppo G, Aroda VR, et al. 13. Older Adults: Standards of Care in Diabetes-2023. Diabetes Care. 2023;46(Suppl 1):S216-S229. doi: 10.2337/dc23-S013.\r\n2. Yeoh EK, Wong MCS, Wong ELY, et al. Benefits and limitations of implementing Chronic Care Model (CCM) in primary care programs: A systematic review. Int J Cardiol. 2018 May 1;258:279-288. doi: 10.1016/j.ijcard.2017.11.057.\r\n3. https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/nationella-riktlinjer/2018-10-25.pdf\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-10-29T09:26:56+01:00",
-    "input_file": "diabetes-guidelines-for-older-adults.knit.md"
+    "last_modified": "2023-10-29T09:26:57+01:00",
+    "input_file": {}
   }
 ]
